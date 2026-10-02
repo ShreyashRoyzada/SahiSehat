@@ -1,0 +1,8877 @@
+[
+ {
+  "id": "amul-gold-milk",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Gold Full Cream Milk",
+  "category": "Milk",
+  "useGroup": "milk",
+  "unit": "ml",
+  "servingSize": 200,
+  "nutritionPer100": {
+   "energyKcal": 89,
+   "protein": 3.2,
+   "carbohydrate": 5,
+   "totalSugar": 5,
+   "addedSugar": 0,
+   "fat": 6,
+   "saturatedFat": 3.9,
+   "transFat": 0.1,
+   "sodiumMg": 45,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Milk (standardised, full cream)"
+  ],
+  "claims": [
+   "Full cream",
+   "Pasteurised"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R001"
+  ],
+  "qcKey": "AMUL-GOLD",
+  "qcLine": {
+   "rank": 2,
+   "score": 13,
+   "demandTier": 3,
+   "topRatingsCount": 1581833
+  },
+  "price": {
+   "amount": 36,
+   "packQty": 500,
+   "packUnit": "ml",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/amul-gold-full-cream-fresh-milk-pouch/pvid/51d55eac-ca29-4532-9b32-9b7d317f346a",
+   "https://www.zepto.com/pn/amul-gold-full-cream-fresh-milk-pouch/pvid/a3277b40-243f-4bd5-a38e-af3a77b837e1",
+   "https://blinkit.com/prn/amul-gold-full-cream-milk/prid/12872"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-taaza-toned-milk",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Taaza Homogenised Toned Milk",
+  "category": "Milk",
+  "useGroup": "milk",
+  "unit": "ml",
+  "servingSize": 200,
+  "nutritionPer100": {
+   "energyKcal": 58,
+   "protein": 3.1,
+   "carbohydrate": 4.7,
+   "totalSugar": 4.7,
+   "addedSugar": 0,
+   "fat": 3,
+   "saturatedFat": 1.9,
+   "transFat": 0.1,
+   "sodiumMg": 45,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Milk (toned)"
+  ],
+  "claims": [
+   "Toned",
+   "Homogenised",
+   "Pasteurised"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R002"
+  ],
+  "qcKey": "AMUL-TAAZA",
+  "qcLine": {
+   "rank": 3,
+   "score": 13,
+   "demandTier": 3,
+   "topRatingsCount": 1214721
+  },
+  "price": {
+   "amount": 30,
+   "packQty": 500,
+   "packUnit": "ml",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/amul-taaza-toned-fresh-milk-pouch/pvid/9d447ba5-1d35-46e1-bc64-e932135d026f",
+   "https://www.bigbasket.com/product-reviews/1202684/amul-taaza-homogenised-toned-milk-6x1-l/",
+   "https://blinkit.com/prn/amul-taaza-toned-milk/prid/19512"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-taaza-milky-milk",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Taaza Milky Milk",
+  "category": "Milk",
+  "useGroup": "milk",
+  "unit": "ml",
+  "servingSize": 200,
+  "nutritionPer100": {
+   "energyKcal": null,
+   "protein": null,
+   "carbohydrate": null,
+   "totalSugar": null,
+   "addedSugar": null,
+   "fat": null,
+   "saturatedFat": null,
+   "transFat": null,
+   "sodiumMg": null,
+   "fibre": null
+  },
+  "nova": null,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [],
+  "claims": [],
+  "labelSource": {
+   "kind": "missing",
+   "verified": false,
+   "note": "Label data not captured yet."
+  },
+  "reportIds": [
+   "R003"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "country-delight-cow-milk",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Country Delight",
+  "name": "Cow Milk",
+  "category": "Milk",
+  "useGroup": "milk",
+  "unit": "ml",
+  "servingSize": 200,
+  "nutritionPer100": {
+   "energyKcal": 66,
+   "protein": 3.2,
+   "carbohydrate": 4.8,
+   "totalSugar": 4.8,
+   "addedSugar": 0,
+   "fat": 3.8,
+   "saturatedFat": 2.4,
+   "transFat": 0.1,
+   "sodiumMg": 45,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Cow milk"
+  ],
+  "claims": [
+   "Farm fresh",
+   "No preservatives"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R004"
+  ],
+  "qcKey": "CD-COW",
+  "qcLine": {
+   "rank": 8,
+   "score": 11,
+   "demandTier": 2,
+   "topRatingsCount": 13966
+  },
+  "price": {
+   "amount": 47,
+   "packQty": 450,
+   "packUnit": "ml",
+   "platform": "Instamart",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/country-delight-cow-fresh-milk-pouch/pvid/ed495088-935c-44a9-919b-b667fde1ac87",
+   "https://www.zepto.com/pn/country-delight-natural-fresh-cow-milk-25g-protein-pouch/pvid/f1f1d95f-ada9-48f7-ab10-f094bb40337b",
+   "https://blinkit.com/prn/country-delight-cow-milk/prid/637875"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "mother-dairy-cow-milk",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Mother Dairy",
+  "name": "Cow Milk",
+  "category": "Milk",
+  "useGroup": "milk",
+  "unit": "ml",
+  "servingSize": 200,
+  "nutritionPer100": {
+   "energyKcal": 64,
+   "protein": 3.1,
+   "carbohydrate": 4.8,
+   "totalSugar": 4.8,
+   "addedSugar": 0,
+   "fat": 3.5,
+   "saturatedFat": 2.2,
+   "transFat": 0.1,
+   "sodiumMg": 45,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Cow milk"
+  ],
+  "claims": [
+   "Pasteurised"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R005"
+  ],
+  "qcKey": "MD-COW",
+  "qcLine": {
+   "rank": 1,
+   "score": 14,
+   "demandTier": 3,
+   "topRatingsCount": 302321
+  },
+  "price": {
+   "amount": 31,
+   "packQty": 500,
+   "packUnit": "ml",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/mother-dairy-cow-fresh-milk-pouch/pvid/3b2f7706-f70f-474d-911b-13aebfa73bcc",
+   "https://blinkit.com/prn/mother-dairy-cow-milk/prid/339309",
+   "https://www.swiggy.com/instamart/p/mother-dairy-cow-milk-NDK4IQP8PU"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "mother-dairy-double-toned-milk",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Mother Dairy",
+  "name": "Double Toned Milk",
+  "category": "Milk",
+  "useGroup": "milk",
+  "unit": "ml",
+  "servingSize": 200,
+  "nutritionPer100": {
+   "energyKcal": 46,
+   "protein": 3.2,
+   "carbohydrate": 5,
+   "totalSugar": 5,
+   "addedSugar": 0,
+   "fat": 1.5,
+   "saturatedFat": 1,
+   "transFat": 0,
+   "sodiumMg": 45,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Milk (double toned)"
+  ],
+  "claims": [
+   "Low fat"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "mother-dairy-toned-milk",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Mother Dairy",
+  "name": "Toned Milk",
+  "category": "Milk",
+  "useGroup": "milk",
+  "unit": "ml",
+  "servingSize": 200,
+  "nutritionPer100": {
+   "energyKcal": 58,
+   "protein": 3.1,
+   "carbohydrate": 4.8,
+   "totalSugar": 4.8,
+   "addedSugar": 0,
+   "fat": 3,
+   "saturatedFat": 1.9,
+   "transFat": 0.1,
+   "sodiumMg": 45,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Milk (toned)"
+  ],
+  "claims": [
+   "Pasteurised"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-masti-dahi-pouch",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Masti Dahi (pouch)",
+  "category": "Curd & yoghurt",
+  "useGroup": "curd",
+  "unit": "g",
+  "servingSize": 100,
+  "nutritionPer100": {
+   "energyKcal": 63,
+   "protein": 3.1,
+   "carbohydrate": 4.6,
+   "totalSugar": 4.6,
+   "addedSugar": 0,
+   "fat": 3.1,
+   "saturatedFat": 1.9,
+   "transFat": 0.1,
+   "sodiumMg": 45,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Pasteurised toned milk",
+   "Active lactic culture"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R006"
+  ],
+  "qcKey": "AMUL-DAHI-POUCH",
+  "qcLine": {
+   "rank": 5,
+   "score": 11,
+   "demandTier": 3,
+   "topRatingsCount": 660000
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://blinkit.com/prn/amul-masti-pouch-curd/prid/99407"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-masti-dahi-cup",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Masti Dahi (cup)",
+  "category": "Curd & yoghurt",
+  "useGroup": "curd",
+  "unit": "g",
+  "servingSize": 100,
+  "nutritionPer100": {
+   "energyKcal": 63,
+   "protein": 3.1,
+   "carbohydrate": 4.6,
+   "totalSugar": 4.6,
+   "addedSugar": 0,
+   "fat": 3.1,
+   "saturatedFat": 1.9,
+   "transFat": 0.1,
+   "sodiumMg": 45,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Pasteurised toned milk",
+   "Active lactic culture"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R007"
+  ],
+  "qcKey": "AMUL-DAHI-CUP",
+  "qcLine": {
+   "rank": 4,
+   "score": 12,
+   "demandTier": 3,
+   "topRatingsCount": 103152
+  },
+  "price": {
+   "amount": 22.58,
+   "packQty": 200,
+   "packUnit": "g",
+   "platform": "BigBasket",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/amul-masti-set-curd-tub/pvid/cf8c88da-d6d3-40af-893c-db15c351513b",
+   "https://www.bigbasket.com/pd/30000356/amul-masti-dahi-200-g-cup/",
+   "https://www.bigbasket.com/product-reviews/1209011/amul-masti-dahi-5x85-g-cup/"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "epigamia-turbo",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Epigamia",
+  "name": "Turbo 50 g",
+  "category": "Curd & yoghurt",
+  "useGroup": "curd",
+  "unit": "g",
+  "servingSize": 50,
+  "nutritionPer100": {
+   "energyKcal": null,
+   "protein": null,
+   "carbohydrate": null,
+   "totalSugar": null,
+   "addedSugar": null,
+   "fat": null,
+   "saturatedFat": null,
+   "transFat": null,
+   "sodiumMg": null,
+   "fibre": null
+  },
+  "nova": null,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [],
+  "claims": [],
+  "labelSource": {
+   "kind": "missing",
+   "verified": false,
+   "note": "Label data not captured yet."
+  },
+  "reportIds": [
+   "R008"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "mother-dairy-classic-dahi",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Mother Dairy",
+  "name": "Classic Dahi",
+  "category": "Curd & yoghurt",
+  "useGroup": "curd",
+  "unit": "g",
+  "servingSize": 100,
+  "nutritionPer100": {
+   "energyKcal": 60,
+   "protein": 3.1,
+   "carbohydrate": 4.5,
+   "totalSugar": 4.5,
+   "addedSugar": 0,
+   "fat": 3,
+   "saturatedFat": 1.9,
+   "transFat": 0.1,
+   "sodiumMg": 45,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Pasteurised toned milk",
+   "Culture"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "beyond-snack-banana-chips",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Beyond Snack",
+  "name": "Kerala Banana Chips",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 540,
+   "protein": 2.5,
+   "carbohydrate": 55,
+   "totalSugar": 3,
+   "addedSugar": 0,
+   "fat": 34,
+   "saturatedFat": 30,
+   "transFat": 0,
+   "sodiumMg": 300,
+   "fibre": 4
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Raw banana",
+   "Coconut oil",
+   "Salt"
+  ],
+  "claims": [
+   "Made in coconut oil"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R009"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "farmley-makhana",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Farmley",
+  "name": "Makhana",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 480,
+   "protein": 9,
+   "carbohydrate": 62,
+   "totalSugar": 2,
+   "addedSugar": 0,
+   "fat": 22,
+   "saturatedFat": 8,
+   "transFat": 0,
+   "sodiumMg": 700,
+   "fibre": 6
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "milk"
+   ]
+  },
+  "ingredients": [
+   "Fox nuts (makhana)",
+   "Edible vegetable oil",
+   "Spices and condiments",
+   "Salt"
+  ],
+  "claims": [
+   "Roasted not fried"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R010"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "haldirams-salted-peanuts",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Haldiram's",
+  "name": "Salted Peanuts",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 580,
+   "protein": 24,
+   "carbohydrate": 15,
+   "totalSugar": 4,
+   "addedSugar": 0,
+   "fat": 48,
+   "saturatedFat": 8,
+   "transFat": 0,
+   "sodiumMg": 600,
+   "fibre": 7
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Peanuts",
+   "Edible vegetable oil (cottonseed oil)",
+   "Salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R011"
+  ],
+  "qcKey": "HALDIRAMS-PEANUT",
+  "qcLine": {
+   "rank": 7,
+   "score": 11,
+   "demandTier": 2,
+   "topRatingsCount": 38843
+  },
+  "price": {
+   "amount": 60,
+   "packQty": 200,
+   "packUnit": "g",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/haldirams-salted-peanut/pvid/433d67d1-416e-431c-921b-84898116b255",
+   "https://blinkit.com/prn/haldirams-classic-salted-peanuts/prid/605",
+   "https://www.swiggy.com/stores/instamart/p/haldiram-delhi-classic-salted-peanuts-SMAHT7DMNY"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "lays-magic-masala",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Lay's",
+  "name": "India's Magic Masala Potato Chips",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 544,
+   "protein": 6.5,
+   "carbohydrate": 53,
+   "totalSugar": 3.5,
+   "addedSugar": 1.5,
+   "fat": 34,
+   "saturatedFat": 15,
+   "transFat": 0.1,
+   "sodiumMg": 720,
+   "fibre": 3
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "milk",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Potato",
+   "Edible vegetable oil (palmolein, rice bran oil)",
+   "Seasoning (spices and condiments, salt, sugar, onion powder, garlic powder, flavour enhancers INS 627 and INS 631)"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R012"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "ritebite-protein-chips",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "RiteBite",
+  "name": "Max Protein Chips – Cheese Jalapeno",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 40,
+  "nutritionPer100": {
+   "energyKcal": 420,
+   "protein": 25,
+   "carbohydrate": 50,
+   "totalSugar": 3,
+   "addedSugar": 1,
+   "fat": 12,
+   "saturatedFat": 5,
+   "transFat": 0,
+   "sodiumMg": 900,
+   "fibre": 5
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk",
+    "soy"
+   ],
+   "mayContain": [
+    "gluten"
+   ]
+  },
+  "ingredients": [
+   "Soy protein isolate",
+   "Rice flour",
+   "Corn grits",
+   "Edible vegetable oil",
+   "Cheese powder",
+   "Seasoning (salt, jalapeno, spices and condiments)"
+  ],
+  "claims": [
+   "10 g protein"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R013"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "snackible-ragi-chips",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Snackible",
+  "name": "Ragi Chips – Peri Peri",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 450,
+   "protein": 8,
+   "carbohydrate": 65,
+   "totalSugar": 3,
+   "addedSugar": 1,
+   "fat": 17,
+   "saturatedFat": 7,
+   "transFat": 0,
+   "sodiumMg": 800,
+   "fibre": 5
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "gluten",
+    "milk"
+   ]
+  },
+  "ingredients": [
+   "Ragi flour",
+   "Rice flour",
+   "Edible vegetable oil",
+   "Peri peri seasoning (spices and condiments, salt, sugar, garlic powder)"
+  ],
+  "claims": [
+   "Baked not fried"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R014"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "superyou-protein-chips",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "SuperYou",
+  "name": "Multigrain Protein Chips – Sour Cream & Onion",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 40,
+  "nutritionPer100": {
+   "energyKcal": 430,
+   "protein": 25,
+   "carbohydrate": 52,
+   "totalSugar": 3,
+   "addedSugar": 1,
+   "fat": 13,
+   "saturatedFat": 6,
+   "transFat": 0,
+   "sodiumMg": 750,
+   "fibre": 5
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk",
+    "soy"
+   ],
+   "mayContain": [
+    "gluten"
+   ]
+  },
+  "ingredients": [
+   "Soy protein",
+   "Multigrain flour (rice, jowar, ragi)",
+   "Edible vegetable oil",
+   "Seasoning (milk solids, onion powder, salt, sugar)"
+  ],
+  "claims": [
+   "10 g protein"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R015"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "taali-jowar-puffs",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Taali",
+  "name": "Jowar Protein Puffs – Masala Mania",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 420,
+   "protein": 20,
+   "carbohydrate": 60,
+   "totalSugar": 2,
+   "addedSugar": 0.5,
+   "fat": 10,
+   "saturatedFat": 4,
+   "transFat": 0,
+   "sodiumMg": 700,
+   "fibre": 6
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Jowar",
+   "Pea protein",
+   "Edible vegetable oil",
+   "Masala seasoning (spices and condiments, salt)"
+  ],
+  "claims": [
+   "High protein"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R016"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "too-yumm-chilli-wafers",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Too Yumm",
+  "name": "Spicy Chilli Wafers (potato chips)",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 500,
+   "protein": 6,
+   "carbohydrate": 58,
+   "totalSugar": 3,
+   "addedSugar": 1.5,
+   "fat": 27,
+   "saturatedFat": 12,
+   "transFat": 0,
+   "sodiumMg": 750,
+   "fibre": 3
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "milk",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Potato",
+   "Edible vegetable oil (palmolein)",
+   "Seasoning (salt, chilli, sugar, spices and condiments, onion powder, garlic powder)"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R017"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "haldirams-aloo-bhujia",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Haldiram's",
+  "name": "Aloo Bhujia",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 570,
+   "protein": 10,
+   "carbohydrate": 40,
+   "totalSugar": 1,
+   "addedSugar": 0,
+   "fat": 41,
+   "saturatedFat": 18,
+   "transFat": 0,
+   "sodiumMg": 1000,
+   "fibre": 4
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Gram flour (besan)",
+   "Edible vegetable oil (palmolein)",
+   "Potato",
+   "Moth bean flour",
+   "Salt",
+   "Spices and condiments"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "haldirams-moong-dal",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Haldiram's",
+  "name": "Moong Dal",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 520,
+   "protein": 23,
+   "carbohydrate": 45,
+   "totalSugar": 2,
+   "addedSugar": 0,
+   "fat": 27,
+   "saturatedFat": 10,
+   "transFat": 0,
+   "sodiumMg": 600,
+   "fibre": 6
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Moong dal",
+   "Edible vegetable oil (cottonseed oil)",
+   "Salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "haldirams-navratan-mix",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Haldiram's",
+  "name": "Navratan Mix",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 540,
+   "protein": 12,
+   "carbohydrate": 45,
+   "totalSugar": 4,
+   "addedSugar": 2,
+   "fat": 35,
+   "saturatedFat": 15,
+   "transFat": 0,
+   "sodiumMg": 850,
+   "fibre": 5
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut",
+    "treenut"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Gram flour",
+   "Edible vegetable oil",
+   "Peanuts",
+   "Lentils",
+   "Cashews",
+   "Raisins",
+   "Salt",
+   "Sugar",
+   "Spices and condiments"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "kurkure-masala-munch",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Kurkure",
+  "name": "Masala Munch",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 555,
+   "protein": 6,
+   "carbohydrate": 57,
+   "totalSugar": 2.5,
+   "addedSugar": 1.5,
+   "fat": 34,
+   "saturatedFat": 15,
+   "transFat": 0,
+   "sodiumMg": 900,
+   "fibre": 2
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "milk",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Rice meal",
+   "Edible vegetable oil (palmolein)",
+   "Corn meal",
+   "Gram meal",
+   "Seasoning (spices and condiments, salt, sugar, onion powder, flavour enhancer INS 627 and INS 631)"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "lays-classic-salted",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Lay's",
+  "name": "Classic Salted",
+  "category": "Packaged snacks",
+  "useGroup": "salty-snack",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 550,
+   "protein": 6.5,
+   "carbohydrate": 52,
+   "totalSugar": 0.6,
+   "addedSugar": 0,
+   "fat": 35,
+   "saturatedFat": 15,
+   "transFat": 0,
+   "sodiumMg": 520,
+   "fibre": 3
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Potato",
+   "Edible vegetable oil (palmolein, rice bran oil)",
+   "Salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "minus-30-vegan-sugar-free",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Minus 30",
+  "name": "Mini Vegan & Sugar Free",
+  "category": "Ice cream",
+  "useGroup": "ice-cream",
+  "unit": "g",
+  "servingSize": 60,
+  "nutritionPer100": {
+   "energyKcal": null,
+   "protein": null,
+   "carbohydrate": null,
+   "totalSugar": null,
+   "addedSugar": null,
+   "fat": null,
+   "saturatedFat": null,
+   "transFat": null,
+   "sodiumMg": null,
+   "fibre": null
+  },
+  "nova": null,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [],
+  "claims": [],
+  "labelSource": {
+   "kind": "missing",
+   "verified": false,
+   "note": "Label data not captured yet."
+  },
+  "reportIds": [
+   "R018"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "noto-dark-chocolate",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Noto",
+  "name": "Ice cream Dark Chocolate",
+  "category": "Ice cream",
+  "useGroup": "ice-cream",
+  "unit": "g",
+  "servingSize": 60,
+  "nutritionPer100": {
+   "energyKcal": null,
+   "protein": null,
+   "carbohydrate": null,
+   "totalSugar": null,
+   "addedSugar": null,
+   "fat": null,
+   "saturatedFat": null,
+   "transFat": null,
+   "sodiumMg": null,
+   "fibre": null
+  },
+  "nova": null,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [],
+  "claims": [],
+  "labelSource": {
+   "kind": "missing",
+   "verified": false,
+   "note": "Label data not captured yet."
+  },
+  "reportIds": [
+   "R019"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-vanilla-royale",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Vanilla Royale Ice Cream",
+  "category": "Ice cream",
+  "useGroup": "ice-cream",
+  "unit": "g",
+  "servingSize": 60,
+  "nutritionPer100": {
+   "energyKcal": 205,
+   "protein": 3.5,
+   "carbohydrate": 24,
+   "totalSugar": 20,
+   "addedSugar": 15,
+   "fat": 10.5,
+   "saturatedFat": 7,
+   "transFat": 0.2,
+   "sodiumMg": 60,
+   "fibre": 0
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Milk solids",
+   "Sugar",
+   "Milk fat",
+   "Stabilisers (INS 412, INS 410)",
+   "Emulsifier (INS 471)",
+   "Vanilla flavour"
+  ],
+  "claims": [
+   "Real milk ice cream"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-butter",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Butter (salted)",
+  "category": "Butter, paneer & cheese",
+  "useGroup": "butter",
+  "unit": "g",
+  "servingSize": 10,
+  "nutritionPer100": {
+   "energyKcal": 720,
+   "protein": 0.5,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 80,
+   "saturatedFat": 51,
+   "transFat": 2.5,
+   "sodiumMg": 700,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Butter",
+   "Common salt"
+  ],
+  "claims": [
+   "Pasteurised"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R020"
+  ],
+  "qcKey": "AMUL-BUTTER",
+  "qcLine": {
+   "rank": 11,
+   "score": 9,
+   "demandTier": 3,
+   "topRatingsCount": 144000
+  },
+  "price": {
+   "amount": 295,
+   "packQty": 500,
+   "packUnit": "g",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/amul-salted-butter/pvid/fc2ffbca-a36b-4728-b6be-3168475f3b75",
+   "https://blinkit.com/prn/amul-salted-butter/prid/160",
+   "https://www.fantasticfood.in/food/amul-butter-500g"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-cheese-cubes",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Cheese Cubes",
+  "category": "Butter, paneer & cheese",
+  "useGroup": "cheese",
+  "unit": "g",
+  "servingSize": 20,
+  "nutritionPer100": {
+   "energyKcal": 315,
+   "protein": 20,
+   "carbohydrate": 2,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 25,
+   "saturatedFat": 16,
+   "transFat": 0.8,
+   "sodiumMg": 1100,
+   "fibre": 0
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Cheese",
+   "Emulsifying salts (INS 331, INS 339)",
+   "Common salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R021"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-paneer",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Malai Paneer",
+  "category": "Butter, paneer & cheese",
+  "useGroup": "paneer",
+  "unit": "g",
+  "servingSize": 50,
+  "nutritionPer100": {
+   "energyKcal": 296,
+   "protein": 18,
+   "carbohydrate": 3,
+   "totalSugar": 1.5,
+   "addedSugar": 0,
+   "fat": 23,
+   "saturatedFat": 15,
+   "transFat": 0.6,
+   "sodiumMg": 30,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Milk solids",
+   "Citric acid"
+  ],
+  "claims": [
+   "Fresh"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R022"
+  ],
+  "qcKey": "AMUL-PANEER",
+  "qcLine": {
+   "rank": 16,
+   "score": 7.75,
+   "demandTier": 3,
+   "topRatingsCount": 397166
+  },
+  "price": {
+   "amount": 99,
+   "packQty": 200,
+   "packUnit": "g",
+   "platform": "Blinkit",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/amul-fresh-malai-paneer/pvid/54099eb2-2d08-4013-a822-a3eebc72f19f",
+   "https://blinkit.com/prn/amul-malai-paneer/prid/191",
+   "https://www.bigbasket.com/pd/40096747/amul-malai-fresh-paneer-200-g/"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "aashirvaad-organic-cow-ghee",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Aashirvaad",
+  "name": "Organic Cow Ghee",
+  "category": "Ghee",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 5,
+  "nutritionPer100": {
+   "energyKcal": 897,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 99.7,
+   "saturatedFat": 62,
+   "transFat": 2,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Organic cow milk fat"
+  ],
+  "claims": [
+   "Organic"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R023"
+  ],
+  "qcKey": "AASHIRVAAD-GHEE",
+  "qcLine": {
+   "rank": 24,
+   "score": 4.75,
+   "demandTier": 1,
+   "topRatingsCount": 5008
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://www.zepto.com/pn/aashirvaad-select-cow-ghee-made-with-cultured-curd-method/pvid/cf9fc46a-6fc6-44b8-bb65-efba05dac42c",
+   "https://www.bigbasket.com/pd/40119174/aashirvaad-svasti-cow-ghee-1-l/",
+   "https://www.swiggy.com/instamart/p/aashirvaad-svasti-pure-cow-ghee-pouch-8UT03L73WS"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "aashirvaad-svasti-cow-ghee",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Aashirvaad",
+  "name": "Svasti Pure Cow Ghee",
+  "category": "Ghee",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 5,
+  "nutritionPer100": {
+   "energyKcal": 897,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 99.7,
+   "saturatedFat": 62,
+   "transFat": 2,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Cow milk fat"
+  ],
+  "claims": [
+   "Pure"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R024"
+  ],
+  "qcKey": "AASHIRVAAD-GHEE",
+  "qcLine": {
+   "rank": 24,
+   "score": 4.75,
+   "demandTier": 1,
+   "topRatingsCount": 5008
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://www.zepto.com/pn/aashirvaad-select-cow-ghee-made-with-cultured-curd-method/pvid/cf9fc46a-6fc6-44b8-bb65-efba05dac42c",
+   "https://www.bigbasket.com/pd/40119174/aashirvaad-svasti-cow-ghee-1-l/",
+   "https://www.swiggy.com/instamart/p/aashirvaad-svasti-pure-cow-ghee-pouch-8UT03L73WS"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-cow-ghee",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Cow Ghee",
+  "category": "Ghee",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 5,
+  "nutritionPer100": {
+   "energyKcal": 897,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 99.7,
+   "saturatedFat": 62,
+   "transFat": 2,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Cow milk fat"
+  ],
+  "claims": [
+   "Pure"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R025"
+  ],
+  "qcKey": "AMUL-GHEE",
+  "qcLine": {
+   "rank": 28,
+   "score": 3.25,
+   "demandTier": 0,
+   "topRatingsCount": 0
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://www.zepto.com/pn/amul-cow-ghee-pouch-classic-authentic/pvid/c9f11f97-fdec-4f73-a7da-b83f599ef2f5",
+   "https://www.swiggy.com/instamart/p/amul-high-aroma-cow-ghee-jar-XJD6YC5D62",
+   "https://www.bigbasket.com/pd/40050538/amul-cow-ghee-200-ml-jar/"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-high-aroma-cow-ghee",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "High Aroma Cow Ghee",
+  "category": "Ghee",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 5,
+  "nutritionPer100": {
+   "energyKcal": 897,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 99.7,
+   "saturatedFat": 62,
+   "transFat": 2,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Cow milk fat"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R026"
+  ],
+  "qcKey": "AMUL-GHEE",
+  "qcLine": {
+   "rank": 28,
+   "score": 3.25,
+   "demandTier": 0,
+   "topRatingsCount": 0
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://www.zepto.com/pn/amul-cow-ghee-pouch-classic-authentic/pvid/c9f11f97-fdec-4f73-a7da-b83f599ef2f5",
+   "https://www.swiggy.com/instamart/p/amul-high-aroma-cow-ghee-jar-XJD6YC5D62",
+   "https://www.bigbasket.com/pd/40050538/amul-cow-ghee-200-ml-jar/"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "country-delight-desi-cow-ghee",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Country Delight",
+  "name": "Desi Cow Ghee",
+  "category": "Ghee",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 5,
+  "nutritionPer100": {
+   "energyKcal": 897,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 99.7,
+   "saturatedFat": 62,
+   "transFat": 2,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Cow milk fat"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R027"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "country-delight-danedar-ghee",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Country Delight",
+  "name": "Desi Danedar Ghee",
+  "category": "Ghee",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 5,
+  "nutritionPer100": {
+   "energyKcal": 897,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 99.7,
+   "saturatedFat": 62,
+   "transFat": 2,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Cow milk fat"
+  ],
+  "claims": [
+   "Danedar"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R028"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "organic-india-cow-ghee",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Organic India",
+  "name": "Cow Ghee",
+  "category": "Ghee",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 5,
+  "nutritionPer100": {
+   "energyKcal": 897,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 99.7,
+   "saturatedFat": 62,
+   "transFat": 2,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Organic cow milk fat"
+  ],
+  "claims": [
+   "Organic"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R029",
+   "R030"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "patanjali-cow-ghee",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Patanjali",
+  "name": "Cow's Ghee",
+  "category": "Ghee",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 5,
+  "nutritionPer100": {
+   "energyKcal": 897,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 99.7,
+   "saturatedFat": 62,
+   "transFat": 2,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Cow milk fat"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R031"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "vedic-a2-gir-ghee",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Vedic",
+  "name": "A2 Gir Cow Ghee",
+  "category": "Ghee",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 5,
+  "nutritionPer100": {
+   "energyKcal": 897,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 99.7,
+   "saturatedFat": 62,
+   "transFat": 2,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Gir cow milk fat"
+  ],
+  "claims": [
+   "A2",
+   "Bilona"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R032"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "aashirvaad-superior-mp-atta",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Aashirvaad",
+  "name": "Superior MP Atta",
+  "category": "Atta, rice & salt",
+  "useGroup": "atta",
+  "unit": "g",
+  "servingSize": 40,
+  "nutritionPer100": {
+   "energyKcal": 364,
+   "protein": 12.1,
+   "carbohydrate": 72,
+   "totalSugar": 1,
+   "addedSugar": 0,
+   "fat": 1.7,
+   "saturatedFat": 0.3,
+   "transFat": 0,
+   "sodiumMg": 2,
+   "fibre": 11.2
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Whole wheat"
+  ],
+  "claims": [
+   "0% maida",
+   "100% atta"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R033"
+  ],
+  "qcKey": "AASHIRVAAD-ATTA",
+  "qcLine": {
+   "rank": 10,
+   "score": 10,
+   "demandTier": 2,
+   "topRatingsCount": 74917
+  },
+  "price": {
+   "amount": 348,
+   "packQty": 6000,
+   "packUnit": "g",
+   "platform": "BigBasket",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.bigbasket.com/product-reviews/1235617/aashirvaad-superior-mp-atta-3x2-kg/",
+   "https://www.zepto.com/pn/superior-mp-wheat-atta-0-maida-aashirvaad/pvid/d156ac8e-53c1-4f40-aea8-3de5b28f948d",
+   "https://blinkit.com/prn/aashirvaad-superior-mp-chakki-atta-0-maida-100-atta/prid/344107"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "fortune-chakki-fresh-atta",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Fortune",
+  "name": "Chakki Fresh Atta",
+  "category": "Atta, rice & salt",
+  "useGroup": "atta",
+  "unit": "g",
+  "servingSize": 40,
+  "nutritionPer100": {
+   "energyKcal": 347,
+   "protein": 11.5,
+   "carbohydrate": 72,
+   "totalSugar": 1,
+   "addedSugar": 0,
+   "fat": 1.8,
+   "saturatedFat": 0.3,
+   "transFat": 0,
+   "sodiumMg": 3,
+   "fibre": 11
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Whole wheat"
+  ],
+  "claims": [
+   "100% atta"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "aashirvaad-multigrain-atta",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Aashirvaad",
+  "name": "Multigrains Atta",
+  "category": "Atta, rice & salt",
+  "useGroup": "atta",
+  "unit": "g",
+  "servingSize": 40,
+  "nutritionPer100": {
+   "energyKcal": 352,
+   "protein": 13,
+   "carbohydrate": 68,
+   "totalSugar": 1,
+   "addedSugar": 0,
+   "fat": 2.3,
+   "saturatedFat": 0.4,
+   "transFat": 0,
+   "sodiumMg": 5,
+   "fibre": 12.5
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten",
+    "soy"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Whole wheat",
+   "Soya",
+   "Channa",
+   "Oat",
+   "Maize",
+   "Psyllium husk"
+  ],
+  "claims": [
+   "High fibre"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "daawat-brown-rice",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Daawat",
+  "name": "Brown Rice",
+  "category": "Atta, rice & salt",
+  "useGroup": "rice",
+  "unit": "g",
+  "servingSize": 60,
+  "nutritionPer100": {
+   "energyKcal": 356,
+   "protein": 7.5,
+   "carbohydrate": 77,
+   "totalSugar": 0.5,
+   "addedSugar": 0,
+   "fat": 2.5,
+   "saturatedFat": 0.5,
+   "transFat": 0,
+   "sodiumMg": 5,
+   "fibre": 3.5
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Brown basmati rice"
+  ],
+  "claims": [
+   "Whole grain"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R034"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "india-gate-feast-rozzana",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "India Gate",
+  "name": "Feast Rozzana Basmati Rice",
+  "category": "Atta, rice & salt",
+  "useGroup": "rice",
+  "unit": "g",
+  "servingSize": 60,
+  "nutritionPer100": {
+   "energyKcal": 349,
+   "protein": 7.5,
+   "carbohydrate": 78,
+   "totalSugar": 0.2,
+   "addedSugar": 0,
+   "fat": 0.5,
+   "saturatedFat": 0.1,
+   "transFat": 0,
+   "sodiumMg": 4,
+   "fibre": 1.3
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Basmati rice"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R035"
+  ],
+  "qcKey": "INDIAGATE-FEAST",
+  "qcLine": {
+   "rank": 12,
+   "score": 9,
+   "demandTier": 2,
+   "topRatingsCount": 23064
+  },
+  "price": {
+   "amount": 125,
+   "packQty": 1000,
+   "packUnit": "g",
+   "platform": "BigBasket",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.bigbasket.com/product-reviews/30000590/india-gate-basmati-rice-feast-rozzana-1-kg-pouch/",
+   "https://www.zepto.com/pn/india-gate-all-rounder-feast-rozzana-basmati-rice-aged-rice-fluffy-and-non-sticky/pvid/75118c7a-2b92-441a-995c-ea416b67c05e",
+   "https://www.swiggy.com/instamart/p/india-gate-basmati-rice-feast-rozzana-X1D0V8WZ2T"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "tata-salt",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Tata",
+  "name": "Tata Salt",
+  "category": "Atta, rice & salt",
+  "useGroup": "salt",
+  "unit": "g",
+  "servingSize": 1,
+  "nutritionPer100": {
+   "energyKcal": 0,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 38700,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Iodised salt",
+   "Anticaking agent (INS 536)"
+  ],
+  "claims": [
+   "Vacuum evaporated",
+   "Iodised"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R036"
+  ],
+  "qcKey": "TATA-SALT",
+  "qcLine": {
+   "rank": 6,
+   "score": 11,
+   "demandTier": 3,
+   "topRatingsCount": 496464
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://www.zepto.com/pn/tata-salt-free-flowing-and-iodized-namak-vacuum-evaporated-salt-in-fresh/pvid/208bdb3c-da54-493a-9cb1-5b6c159ae9e1",
+   "https://blinkit.com/prn/tata-salt-vacuum-evaporated-iodised/prid/105",
+   "https://www.swiggy.com/instamart/p/tata-salt-iodised-namak-vacuum-evaporated-salt-UEURIRMFHO"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "tata-salt-lite",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Tata",
+  "name": "Tata Salt Lite",
+  "category": "Atta, rice & salt",
+  "useGroup": "salt",
+  "unit": "g",
+  "servingSize": 1,
+  "nutritionPer100": {
+   "energyKcal": 0,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 32900,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Iodised salt",
+   "Potassium chloride",
+   "Anticaking agent (INS 536)"
+  ],
+  "claims": [
+   "15% lower sodium"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "fortune-kachi-ghani-mustard-oil",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Fortune",
+  "name": "Kachi Ghani Pure Mustard Oil",
+  "category": "Cooking oil",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 10,
+  "nutritionPer100": {
+   "energyKcal": 900,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 100,
+   "saturatedFat": 8,
+   "transFat": 0,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "mustard"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Mustard oil (kachi ghani)"
+  ],
+  "claims": [
+   "Cold pressed"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R037"
+  ],
+  "qcKey": "FORTUNE-MUSTARD",
+  "qcLine": {
+   "rank": 15,
+   "score": 8,
+   "demandTier": 2,
+   "topRatingsCount": 19850
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://www.zepto.com/pn/fortune-kachi-ghani-pure-mustard-oil-jar/pvid/ad176cf4-ea73-45a8-bcc1-0fd1fe475236",
+   "https://blinkit.com/prn/fortune-premium-kachi-ghani-pure-mustard-oil/prid/50",
+   "https://www.bigbasket.com/pd/276764/fortune-fortune-premium-kachi-ghani-pure-mustard-oil-500-ml-bottle/"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "jivo-extra-light-olive-oil",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Jivo",
+  "name": "Extra Light Olive Oil",
+  "category": "Cooking oil",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 10,
+  "nutritionPer100": {
+   "energyKcal": 900,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 100,
+   "saturatedFat": 14,
+   "transFat": 0,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Refined olive oil",
+   "Olive pomace oil"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R038"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "jivo-extra-virgin-olive-oil",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Jivo",
+  "name": "Extra Virgin Olive Oil",
+  "category": "Cooking oil",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 10,
+  "nutritionPer100": {
+   "energyKcal": 900,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 100,
+   "saturatedFat": 14,
+   "transFat": 0,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Extra virgin olive oil"
+  ],
+  "claims": [
+   "Cold pressed"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R039"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "fortune-sunlite-sunflower-oil",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Fortune",
+  "name": "Sunlite Refined Sunflower Oil",
+  "category": "Cooking oil",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 10,
+  "nutritionPer100": {
+   "energyKcal": 900,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 100,
+   "saturatedFat": 10,
+   "transFat": 0,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Refined sunflower oil"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "saffola-gold-oil",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Saffola",
+  "name": "Gold Blended Oil",
+  "category": "Cooking oil",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 10,
+  "nutritionPer100": {
+   "energyKcal": 900,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 100,
+   "saturatedFat": 17,
+   "transFat": 0,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Refined rice bran oil",
+   "Refined sunflower oil"
+  ],
+  "claims": [
+   "Blended oil"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "dalda-vanaspati",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Dalda",
+  "name": "Vanaspati",
+  "category": "Cooking oil",
+  "useGroup": "cooking-fat",
+  "unit": "g",
+  "servingSize": 10,
+  "nutritionPer100": {
+   "energyKcal": 900,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 100,
+   "saturatedFat": 45,
+   "transFat": 2,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Partially hydrogenated vegetable oils",
+   "Vitamin A",
+   "Vitamin D"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "fortune-soya-chunks",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Fortune",
+  "name": "Soya Chunks",
+  "category": "Soya & protein flour",
+  "useGroup": "soya",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 345,
+   "protein": 52,
+   "carbohydrate": 33,
+   "totalSugar": 7,
+   "addedSugar": 0,
+   "fat": 0.5,
+   "saturatedFat": 0.1,
+   "transFat": 0,
+   "sodiumMg": 10,
+   "fibre": 13
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "soy"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Defatted soya flour"
+  ],
+  "claims": [
+   "High protein"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R040"
+  ],
+  "qcKey": "FORTUNE-SOYA",
+  "qcLine": {
+   "rank": 14,
+   "score": 8,
+   "demandTier": 2,
+   "topRatingsCount": 24414
+  },
+  "price": {
+   "amount": 119,
+   "packQty": 1000,
+   "packUnit": "g",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/fortune-soya-chunks-pouch/pvid/ac6a76c9-5131-4855-963d-be340c0a0f4a",
+   "https://www.bigbasket.com/product-reviews/40019481/fortune-soya-chunks-15x-more-protein-than-milk-200-g-carton/",
+   "https://blinkit.com/prn/fortune-soya-chunks/prid/17571"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "milld-high-protein-flour",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Mill'd",
+  "name": "High Protein Flour",
+  "category": "Soya & protein flour",
+  "useGroup": "atta",
+  "unit": "g",
+  "servingSize": 40,
+  "nutritionPer100": {
+   "energyKcal": null,
+   "protein": null,
+   "carbohydrate": null,
+   "totalSugar": null,
+   "addedSugar": null,
+   "fat": null,
+   "saturatedFat": null,
+   "transFat": null,
+   "sodiumMg": null,
+   "fibre": null
+  },
+  "nova": null,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [],
+  "claims": [],
+  "labelSource": {
+   "kind": "missing",
+   "verified": false,
+   "note": "Label data not captured yet."
+  },
+  "reportIds": [
+   "R041"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "nutrela-soya-chunks",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Nutrela",
+  "name": "Soya Chunks",
+  "category": "Soya & protein flour",
+  "useGroup": "soya",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 345,
+   "protein": 52,
+   "carbohydrate": 33,
+   "totalSugar": 7,
+   "addedSugar": 0,
+   "fat": 0.5,
+   "saturatedFat": 0.1,
+   "transFat": 0,
+   "sodiumMg": 10,
+   "fibre": 13
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "soy"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Defatted soya flour"
+  ],
+  "claims": [
+   "High protein"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R042"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "britannia-whole-wheat-bread",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Britannia",
+  "name": "100% Whole Wheat Bread",
+  "category": "Bread",
+  "useGroup": "bread",
+  "unit": "g",
+  "servingSize": 50,
+  "nutritionPer100": {
+   "energyKcal": 247,
+   "protein": 9.5,
+   "carbohydrate": 45,
+   "totalSugar": 4.5,
+   "addedSugar": 3.5,
+   "fat": 3,
+   "saturatedFat": 0.8,
+   "transFat": 0,
+   "sodiumMg": 450,
+   "fibre": 6
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": [
+    "milk",
+    "soy",
+    "sesame"
+   ]
+  },
+  "ingredients": [
+   "Whole wheat flour (atta)",
+   "Water",
+   "Sugar",
+   "Yeast",
+   "Wheat gluten",
+   "Edible vegetable oil",
+   "Iodised salt",
+   "Preservative (INS 282)",
+   "Emulsifier (INS 471)"
+  ],
+  "claims": [
+   "No maida"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R043"
+  ],
+  "qcKey": "BRITANNIA-WW",
+  "qcLine": {
+   "rank": 25,
+   "score": 4,
+   "demandTier": 0,
+   "topRatingsCount": 0
+  },
+  "price": {
+   "amount": 55,
+   "packQty": 450,
+   "packUnit": "g",
+   "platform": "BigBasket",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://blinkit.com/prn/britannia-100-whole-wheat-bread/prid/127031",
+   "https://www.swiggy.com/instamart/p/britannia-100-whole-wheat-bread-no-maida-JKIZPNZMWB",
+   "https://www.bigbasket.com/pd/40062411/britannia-whole-wheat-bread-rich-in-dietary-fibre-450-g/"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "britannia-white-bread",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Britannia",
+  "name": "White Bread",
+  "category": "Bread",
+  "useGroup": "bread",
+  "unit": "g",
+  "servingSize": 50,
+  "nutritionPer100": {
+   "energyKcal": 260,
+   "protein": 8,
+   "carbohydrate": 51,
+   "totalSugar": 4.6,
+   "addedSugar": 4,
+   "fat": 2.4,
+   "saturatedFat": 1,
+   "transFat": 0,
+   "sodiumMg": 500,
+   "fibre": 2
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": [
+    "milk",
+    "soy",
+    "sesame"
+   ]
+  },
+  "ingredients": [
+   "Refined wheat flour (maida)",
+   "Water",
+   "Sugar",
+   "Yeast",
+   "Edible vegetable oil",
+   "Iodised salt",
+   "Preservative (INS 282)",
+   "Emulsifier (INS 471)"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "dmart-haldi-powder",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "DMart",
+  "name": "Haldi Powder",
+  "category": "Spices & masala",
+  "useGroup": "spice",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 330,
+   "protein": 8,
+   "carbohydrate": 60,
+   "totalSugar": 3,
+   "addedSugar": 0,
+   "fat": 8,
+   "saturatedFat": 2,
+   "transFat": 0,
+   "sodiumMg": 30,
+   "fibre": 20
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Turmeric"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R044"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "dmart-red-chilli-powder",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "DMart",
+  "name": "Red Chilli Powder",
+  "category": "Spices & masala",
+  "useGroup": "spice",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 310,
+   "protein": 12,
+   "carbohydrate": 50,
+   "totalSugar": 7,
+   "addedSugar": 0,
+   "fat": 14,
+   "saturatedFat": 2.5,
+   "transFat": 0,
+   "sodiumMg": 30,
+   "fibre": 28
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Red chilli"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R045"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "everest-garam-masala",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Everest",
+  "name": "Garam Masala",
+  "category": "Spices & masala",
+  "useGroup": "spice",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 380,
+   "protein": 12,
+   "carbohydrate": 45,
+   "totalSugar": 2.5,
+   "addedSugar": 0,
+   "fat": 15,
+   "saturatedFat": 2,
+   "transFat": 0,
+   "sodiumMg": 100,
+   "fibre": 25
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Coriander",
+   "Cumin",
+   "Black pepper",
+   "Cardamom",
+   "Cinnamon",
+   "Clove",
+   "Other spices"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R046"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "everest-kashmirilal-mirch",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Everest",
+  "name": "Kashmirilal Mirch",
+  "category": "Spices & masala",
+  "useGroup": "spice",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 310,
+   "protein": 12,
+   "carbohydrate": 50,
+   "totalSugar": 7,
+   "addedSugar": 0,
+   "fat": 14,
+   "saturatedFat": 2.5,
+   "transFat": 0,
+   "sodiumMg": 30,
+   "fibre": 28
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Red chilli"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R047"
+  ],
+  "qcKey": "EVEREST-KMIRCH",
+  "qcLine": {
+   "rank": 13,
+   "score": 9,
+   "demandTier": 2,
+   "topRatingsCount": 22802
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://www.zepto.com/pn/everest-kashmiri-lal-chilli-powder/pvid/b5968a05-9660-4aa0-af5d-2841695352e8",
+   "https://www.zepto.com/pn/everest-kashmiri-lal-chilli-powder/pvid/8295695a-71e2-4675-940b-d697c60ea7e1",
+   "https://www.swiggy.com/instamart/p/everest-kashmirilal-brilliant-red-chilli-powder-91WZ35WQNQ"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "everest-kitchen-king",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Everest",
+  "name": "Kitchen King Masala",
+  "category": "Spices & masala",
+  "useGroup": "spice",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 360,
+   "protein": 12,
+   "carbohydrate": 48,
+   "totalSugar": 3,
+   "addedSugar": 0,
+   "fat": 12,
+   "saturatedFat": 2,
+   "transFat": 0,
+   "sodiumMg": 100,
+   "fibre": 22
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Coriander",
+   "Chilli",
+   "Cumin",
+   "Turmeric",
+   "Fenugreek leaves",
+   "Other spices"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R048"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "everest-meat-masala",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Everest",
+  "name": "Meat Masala",
+  "category": "Spices & masala",
+  "useGroup": "spice",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 360,
+   "protein": 12,
+   "carbohydrate": 48,
+   "totalSugar": 3,
+   "addedSugar": 0,
+   "fat": 12,
+   "saturatedFat": 2,
+   "transFat": 0,
+   "sodiumMg": 100,
+   "fibre": 22
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Coriander",
+   "Chilli",
+   "Cumin",
+   "Black pepper",
+   "Clove",
+   "Cinnamon",
+   "Other spices"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R049"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "maggi-masala-ae-magic",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Maggi",
+  "name": "Masala-ae-Magic",
+  "category": "Spices & masala",
+  "useGroup": "spice",
+  "unit": "g",
+  "servingSize": 6,
+  "nutritionPer100": {
+   "energyKcal": 250,
+   "protein": 8,
+   "carbohydrate": 45,
+   "totalSugar": 10,
+   "addedSugar": 9,
+   "fat": 5,
+   "saturatedFat": 1.5,
+   "transFat": 0,
+   "sodiumMg": 13000,
+   "fibre": 8
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "gluten",
+    "milk",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Spices and condiments",
+   "Iodised salt",
+   "Sugar",
+   "Onion powder",
+   "Garlic powder",
+   "Flavour enhancer (INS 627, INS 631)",
+   "Iron"
+  ],
+  "claims": [
+   "Iron fortified"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R050"
+  ],
+  "qcKey": "MAGGI-MAGIC",
+  "qcLine": {
+   "rank": 9,
+   "score": 10,
+   "demandTier": 2,
+   "topRatingsCount": 94808
+  },
+  "price": {
+   "amount": 87,
+   "packQty": 120,
+   "packUnit": "g",
+   "platform": "BigBasket",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/maggi-masala-ae-magic-sabzi-masala/pvid/e3c9d6f1-6854-49ad-b31c-42a33ccf2d60",
+   "https://www.bigbasket.com/pd/40222045/maggi-masala-ae-magic-all-in-one-masala-for-dry-vegetables-paneer-dal-more-120-g/",
+   "https://blinkit.com/prn/maggi-masala-ae-magic-sabzi-masala/prid/383252"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "mdh-biryani-masala",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "MDH",
+  "name": "Biryani Masala",
+  "category": "Spices & masala",
+  "useGroup": "spice",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 360,
+   "protein": 12,
+   "carbohydrate": 48,
+   "totalSugar": 3,
+   "addedSugar": 0,
+   "fat": 12,
+   "saturatedFat": 2,
+   "transFat": 0,
+   "sodiumMg": 100,
+   "fibre": 22
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Coriander",
+   "Cumin",
+   "Cardamom",
+   "Cinnamon",
+   "Clove",
+   "Other spices"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R051"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "mdh-chunky-chat-masala",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "MDH",
+  "name": "Chunky Chat Masala",
+  "category": "Spices & masala",
+  "useGroup": "spice",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 250,
+   "protein": 8,
+   "carbohydrate": 45,
+   "totalSugar": 4,
+   "addedSugar": 0,
+   "fat": 5,
+   "saturatedFat": 1,
+   "transFat": 0,
+   "sodiumMg": 15000,
+   "fibre": 12
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Black salt",
+   "Dried mango",
+   "Cumin",
+   "Iodised salt",
+   "Black pepper",
+   "Other spices"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R052"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "mdh-deggi-mirch",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "MDH",
+  "name": "Deggi Mirch",
+  "category": "Spices & masala",
+  "useGroup": "spice",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 310,
+   "protein": 12,
+   "carbohydrate": 50,
+   "totalSugar": 7,
+   "addedSugar": 0,
+   "fat": 14,
+   "saturatedFat": 2.5,
+   "transFat": 0,
+   "sodiumMg": 30,
+   "fibre": 28
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Red chilli"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R053"
+  ],
+  "qcKey": "MDH-DEGGI",
+  "qcLine": {
+   "rank": 19,
+   "score": 7,
+   "demandTier": 1,
+   "topRatingsCount": 9428
+  },
+  "price": {
+   "amount": 73,
+   "packQty": 100,
+   "packUnit": "g",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/mdh-deggi-mirch-powder/pvid/e894a7e7-44b2-4bbe-a72f-ce910cfe6c80",
+   "https://www.bigbasket.com/pd/260799/mdh-powder-deggi-mirch-100-g-carton/",
+   "https://blinkit.com/prn/mdh-deggi-red-chilli-powder/prid/86"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "mdh-garam-masala",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "MDH",
+  "name": "Garam Masala",
+  "category": "Spices & masala",
+  "useGroup": "spice",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 380,
+   "protein": 12,
+   "carbohydrate": 45,
+   "totalSugar": 2.5,
+   "addedSugar": 0,
+   "fat": 15,
+   "saturatedFat": 2,
+   "transFat": 0,
+   "sodiumMg": 100,
+   "fibre": 25
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Coriander",
+   "Cumin",
+   "Black pepper",
+   "Cardamom",
+   "Cinnamon",
+   "Clove",
+   "Other spices"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R054"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "mdh-kitchen-king",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "MDH",
+  "name": "Kitchen King",
+  "category": "Spices & masala",
+  "useGroup": "spice",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 360,
+   "protein": 12,
+   "carbohydrate": 48,
+   "totalSugar": 3,
+   "addedSugar": 0,
+   "fat": 12,
+   "saturatedFat": 2,
+   "transFat": 0,
+   "sodiumMg": 100,
+   "fibre": 22
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Coriander",
+   "Chilli",
+   "Cumin",
+   "Turmeric",
+   "Fenugreek leaves",
+   "Other spices"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R055"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "bevzilla-classic-coffee",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Bevzilla",
+  "name": "Premium Classic Coffee",
+  "category": "Tea & coffee",
+  "useGroup": "coffee",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 350,
+   "protein": 15,
+   "carbohydrate": 65,
+   "totalSugar": 2,
+   "addedSugar": 0,
+   "fat": 0.5,
+   "saturatedFat": 0.2,
+   "transFat": 0,
+   "sodiumMg": 80,
+   "fibre": 30
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Instant coffee"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R056"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "bevzilla-premium-coffee",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Bevzilla",
+  "name": "Premium Coffee",
+  "category": "Tea & coffee",
+  "useGroup": "coffee",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 350,
+   "protein": 15,
+   "carbohydrate": 65,
+   "totalSugar": 2,
+   "addedSugar": 0,
+   "fat": 0.5,
+   "saturatedFat": 0.2,
+   "transFat": 0,
+   "sodiumMg": 80,
+   "fibre": 30
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Instant coffee"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R057"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "brooke-bond-taaza",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Brooke Bond",
+  "name": "Taaza Tea",
+  "category": "Tea & coffee",
+  "useGroup": "tea",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 0,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Black tea"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R058"
+  ],
+  "qcKey": "BB-TAAZA",
+  "qcLine": {
+   "rank": 20,
+   "score": 7,
+   "demandTier": 1,
+   "topRatingsCount": 6869
+  },
+  "price": {
+   "amount": 250,
+   "packQty": 1000,
+   "packUnit": "g",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.bigbasket.com/pd/40002086/brooke-bond-tea-taaza-250-g-pouch/",
+   "https://www.zepto.com/pn/taaza-tea/pvid/199bd75d-a96b-44cb-bf3a-fb24fe3d71da",
+   "https://blinkit.com/prn/brooke-bond-taaza-tea-250-g-pack-of-2/prid/483354"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "nescafe-classic",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Nescafé",
+  "name": "Classic",
+  "category": "Tea & coffee",
+  "useGroup": "coffee",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 350,
+   "protein": 15,
+   "carbohydrate": 65,
+   "totalSugar": 2,
+   "addedSugar": 0,
+   "fat": 0.5,
+   "saturatedFat": 0.2,
+   "transFat": 0,
+   "sodiumMg": 80,
+   "fibre": 30
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Instant coffee"
+  ],
+  "claims": [
+   "100% pure coffee"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R059"
+  ],
+  "qcKey": "NESCAFE-CLASSIC",
+  "qcLine": {
+   "rank": 21,
+   "score": 7,
+   "demandTier": 1,
+   "topRatingsCount": 4751
+  },
+  "price": {
+   "amount": 755,
+   "packQty": 180,
+   "packUnit": "g",
+   "platform": "Instamart",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/nescafe-classic-instant-coffee-powder-pure-coffee-sachets/pvid/c6f424e1-01e7-4d5f-9514-d246afe8b86b",
+   "https://blinkit.com/prn/nescafe-classic-100-pure-instant-coffee-powder/prid/476609",
+   "https://www.swiggy.com/stores/instamart/p/nescafe-classic-instant-coffee-powder-with-over-analyzer-mug-H0D5KMFZ9X"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "vs-mani-instant-coffee",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "VS Mani & Co",
+  "name": "Signature Instant Coffee",
+  "category": "Tea & coffee",
+  "useGroup": "coffee",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 350,
+   "protein": 15,
+   "carbohydrate": 65,
+   "totalSugar": 2,
+   "addedSugar": 0,
+   "fat": 0.5,
+   "saturatedFat": 0.2,
+   "transFat": 0,
+   "sodiumMg": 80,
+   "fibre": 30
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Instant coffee"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R060"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "tata-tea-premium",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Tata Tea",
+  "name": "Premium",
+  "category": "Tea & coffee",
+  "useGroup": "tea",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 0,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 0,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Black tea"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "bru-instant-coffee",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Bru",
+  "name": "Instant Coffee",
+  "category": "Tea & coffee",
+  "useGroup": "coffee",
+  "unit": "g",
+  "servingSize": 2,
+  "nutritionPer100": {
+   "energyKcal": 350,
+   "protein": 12,
+   "carbohydrate": 70,
+   "totalSugar": 3,
+   "addedSugar": 0,
+   "fat": 0.5,
+   "saturatedFat": 0.2,
+   "transFat": 0,
+   "sodiumMg": 80,
+   "fibre": 25
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Coffee",
+   "Chicory"
+  ],
+  "claims": [
+   "Coffee-chicory blend"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "alpino-protein-oats",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Alpino",
+  "name": "Protein Oats",
+  "category": "Breakfast cereal & oats",
+  "useGroup": "breakfast-cereal",
+  "unit": "g",
+  "servingSize": 40,
+  "nutritionPer100": {
+   "energyKcal": null,
+   "protein": null,
+   "carbohydrate": null,
+   "totalSugar": null,
+   "addedSugar": null,
+   "fat": null,
+   "saturatedFat": null,
+   "transFat": null,
+   "sodiumMg": null,
+   "fibre": null
+  },
+  "nova": null,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": [
+    "gluten"
+   ]
+  },
+  "ingredients": [],
+  "claims": [],
+  "labelSource": {
+   "kind": "missing",
+   "verified": false,
+   "note": "Label data not captured yet."
+  },
+  "reportIds": [
+   "R061"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "bagrrys-jumbo-oats",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Bagrry's",
+  "name": "Jumbo Rolled Oats",
+  "category": "Breakfast cereal & oats",
+  "useGroup": "breakfast-cereal",
+  "unit": "g",
+  "servingSize": 40,
+  "nutritionPer100": {
+   "energyKcal": 380,
+   "protein": 12.5,
+   "carbohydrate": 66,
+   "totalSugar": 1,
+   "addedSugar": 0,
+   "fat": 7.5,
+   "saturatedFat": 1.4,
+   "transFat": 0,
+   "sodiumMg": 5,
+   "fibre": 10
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "gluten"
+   ]
+  },
+  "ingredients": [
+   "Rolled oats"
+  ],
+  "claims": [
+   "Whole grain"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R062"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "kelloggs-chocos",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Kellogg's",
+  "name": "Chocos Whole Grain",
+  "category": "Breakfast cereal & oats",
+  "useGroup": "breakfast-cereal",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 387,
+   "protein": 8,
+   "carbohydrate": 80,
+   "totalSugar": 25,
+   "addedSugar": 24,
+   "fat": 3.5,
+   "saturatedFat": 1.3,
+   "transFat": 0,
+   "sodiumMg": 270,
+   "fibre": 6
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": [
+    "milk",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Whole wheat flour",
+   "Sugar",
+   "Rice flour",
+   "Cocoa solids",
+   "Malt extract",
+   "Iodised salt",
+   "Vitamins and minerals"
+  ],
+  "claims": [
+   "Whole grain"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R063"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "kelloggs-corn-flakes",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Kellogg's",
+  "name": "Corn Flakes – Original",
+  "category": "Breakfast cereal & oats",
+  "useGroup": "breakfast-cereal",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 380,
+   "protein": 7,
+   "carbohydrate": 84,
+   "totalSugar": 8,
+   "addedSugar": 7,
+   "fat": 0.9,
+   "saturatedFat": 0.2,
+   "transFat": 0,
+   "sodiumMg": 660,
+   "fibre": 3
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Corn grits",
+   "Sugar",
+   "Malt extract (barley)",
+   "Iodised salt",
+   "Vitamins and minerals"
+  ],
+  "claims": [
+   "Iron and vitamins"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R064",
+   "R065"
+  ],
+  "qcKey": "KELLOGGS-CF",
+  "qcLine": {
+   "rank": 22,
+   "score": 5,
+   "demandTier": 1,
+   "topRatingsCount": 3400
+  },
+  "price": {
+   "amount": 365,
+   "packQty": 1150,
+   "packUnit": "g",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/kelloggs-corn-flakes/pvid/46fa29da-b407-4a95-836a-670e4961bfe7",
+   "https://www.zepto.com/pn/kelloggs-original-corn-flakes/pvid/bd5b6424-330a-4392-a4d8-aad748363acc",
+   "https://www.zeptonow.com/pn/kelloggs-original-corn-flakes/pvid/bce3d20a-69b0-47a0-80ef-324d2f5ac959"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "kelloggs-muesli-no-added-sugar",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Kellogg's",
+  "name": "Muesli 0% Added Sugar",
+  "category": "Breakfast cereal & oats",
+  "useGroup": "breakfast-cereal",
+  "unit": "g",
+  "servingSize": 40,
+  "nutritionPer100": {
+   "energyKcal": 370,
+   "protein": 10,
+   "carbohydrate": 67,
+   "totalSugar": 15,
+   "addedSugar": 0,
+   "fat": 5.5,
+   "saturatedFat": 1,
+   "transFat": 0,
+   "sodiumMg": 160,
+   "fibre": 9
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten",
+    "treenut"
+   ],
+   "mayContain": [
+    "soy",
+    "peanut"
+   ]
+  },
+  "ingredients": [
+   "Rolled oats",
+   "Wheat flakes",
+   "Raisins",
+   "Almonds",
+   "Dried cranberries",
+   "Corn flakes"
+  ],
+  "claims": [
+   "0% added sugar"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R066"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "quaker-rolled-oats",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Quaker",
+  "name": "Rolled Oats – Natural Wholegrain",
+  "category": "Breakfast cereal & oats",
+  "useGroup": "breakfast-cereal",
+  "unit": "g",
+  "servingSize": 40,
+  "nutritionPer100": {
+   "energyKcal": 380,
+   "protein": 12.5,
+   "carbohydrate": 66,
+   "totalSugar": 1,
+   "addedSugar": 0,
+   "fat": 7.5,
+   "saturatedFat": 1.4,
+   "transFat": 0,
+   "sodiumMg": 5,
+   "fibre": 10
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "gluten"
+   ]
+  },
+  "ingredients": [
+   "Rolled oats"
+  ],
+  "claims": [
+   "100% wholegrain"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R067"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "saffola-oats",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Saffola",
+  "name": "Oats",
+  "category": "Breakfast cereal & oats",
+  "useGroup": "breakfast-cereal",
+  "unit": "g",
+  "servingSize": 40,
+  "nutritionPer100": {
+   "energyKcal": 385,
+   "protein": 13,
+   "carbohydrate": 66,
+   "totalSugar": 1,
+   "addedSugar": 0,
+   "fat": 7.5,
+   "saturatedFat": 1.4,
+   "transFat": 0,
+   "sodiumMg": 5,
+   "fibre": 10
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "gluten"
+   ]
+  },
+  "ingredients": [
+   "Rolled oats"
+  ],
+  "claims": [
+   "100% natural"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R068"
+  ],
+  "qcKey": "SAFFOLA-OATS",
+  "qcLine": {
+   "rank": 18,
+   "score": 7,
+   "demandTier": 2,
+   "topRatingsCount": 11000
+  },
+  "price": {
+   "amount": 219,
+   "packQty": 1000,
+   "packUnit": "g",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/saffola-oats-instant-rolled-oats-soft-creamy-oats-power-of-protein-iron-fibre/pvid/e14564e8-eb16-452b-b18e-04f088f4f99e",
+   "https://blinkit.com/prn/saffola-natural-instant-oats-500-g/prid/24626"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "twt-5-grain-muesli",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "The Whole Truth",
+  "name": "Breakfast Muesli – 5 Grain Muesli",
+  "category": "Breakfast cereal & oats",
+  "useGroup": "breakfast-cereal",
+  "unit": "g",
+  "servingSize": 40,
+  "nutritionPer100": {
+   "energyKcal": 400,
+   "protein": 11,
+   "carbohydrate": 62,
+   "totalSugar": 13,
+   "addedSugar": 0,
+   "fat": 11,
+   "saturatedFat": 2.5,
+   "transFat": 0,
+   "sodiumMg": 25,
+   "fibre": 10
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "treenut"
+   ],
+   "mayContain": [
+    "gluten",
+    "peanut"
+   ]
+  },
+  "ingredients": [
+   "Oats",
+   "Ragi",
+   "Jowar",
+   "Bajra",
+   "Dates",
+   "Almonds",
+   "Seeds"
+  ],
+  "claims": [
+   "No added sugar"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R069"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "saffola-masala-oats",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Saffola",
+  "name": "Masala Oats (Classic Masala)",
+  "category": "Breakfast cereal & oats",
+  "useGroup": "breakfast-cereal",
+  "unit": "g",
+  "servingSize": 39,
+  "nutritionPer100": {
+   "energyKcal": 380,
+   "protein": 11,
+   "carbohydrate": 64,
+   "totalSugar": 4,
+   "addedSugar": 2,
+   "fat": 8.5,
+   "saturatedFat": 2,
+   "transFat": 0,
+   "sodiumMg": 1300,
+   "fibre": 8
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": [
+    "milk",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Rolled oats",
+   "Masala seasoning (salt, onion, garlic, spices and condiments, sugar, flavour enhancer INS 627 and INS 631)",
+   "Dehydrated vegetables"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "kissan-tomato-ketchup",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Kissan",
+  "name": "Fresh Tomato Ketchup",
+  "category": "Ketchup & sauces",
+  "useGroup": "ketchup",
+  "unit": "g",
+  "servingSize": 15,
+  "nutritionPer100": {
+   "energyKcal": 120,
+   "protein": 1.2,
+   "carbohydrate": 29,
+   "totalSugar": 23,
+   "addedSugar": 19,
+   "fat": 0.1,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 900,
+   "fibre": 1
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Tomato paste",
+   "Sugar",
+   "Water",
+   "Iodised salt",
+   "Acidity regulator (INS 260)",
+   "Preservative (INS 211)",
+   "Onion",
+   "Garlic",
+   "Spices"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R070"
+  ],
+  "qcKey": "KISSAN-KETCHUP",
+  "qcLine": {
+   "rank": 23,
+   "score": 5,
+   "demandTier": 0,
+   "topRatingsCount": 0
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://blinkit.com/prn/kissan-fresh-tomato-ketchup/prid/476046",
+   "https://www.zepto.com/pn/kissan-fresh-tomato-ketchup/pvid/065707f5-d5fc-4c08-a13a-caba8e89a63c",
+   "https://www.bigbasket.com/pd/266541/kissan-fresh-tomato-ketchup-500-g-bottle/"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "maggi-rich-tomato-ketchup",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Maggi",
+  "name": "Rich Tomato Ketchup",
+  "category": "Ketchup & sauces",
+  "useGroup": "ketchup",
+  "unit": "g",
+  "servingSize": 15,
+  "nutritionPer100": {
+   "energyKcal": 128,
+   "protein": 1.4,
+   "carbohydrate": 30,
+   "totalSugar": 25,
+   "addedSugar": 21,
+   "fat": 0.2,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 950,
+   "fibre": 1
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Tomato paste",
+   "Sugar",
+   "Water",
+   "Iodised salt",
+   "Acidity regulator (INS 260)",
+   "Preservative (INS 211)",
+   "Onion",
+   "Garlic",
+   "Spices"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "britannia-nutrichoice-digestive",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Britannia",
+  "name": "NutriChoice Digestive",
+  "category": "Biscuits & cookies",
+  "useGroup": "biscuit",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 480,
+   "protein": 8,
+   "carbohydrate": 64,
+   "totalSugar": 15,
+   "addedSugar": 13,
+   "fat": 21,
+   "saturatedFat": 10,
+   "transFat": 0.1,
+   "sodiumMg": 450,
+   "fibre": 7
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten",
+    "milk"
+   ],
+   "mayContain": [
+    "soy",
+    "sesame"
+   ]
+  },
+  "ingredients": [
+   "Whole wheat flour (atta)",
+   "Edible vegetable oil (palm oil)",
+   "Sugar",
+   "Refined wheat flour (maida)",
+   "Wheat bran",
+   "Raising agents",
+   "Salt",
+   "Emulsifier (INS 322)"
+  ],
+  "claims": [
+   "High fibre"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R071"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "kikibix-choco-chip",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Kikibix",
+  "name": "Choco Chip Cookies",
+  "category": "Biscuits & cookies",
+  "useGroup": "biscuit",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": null,
+   "protein": null,
+   "carbohydrate": null,
+   "totalSugar": null,
+   "addedSugar": null,
+   "fat": null,
+   "saturatedFat": null,
+   "transFat": null,
+   "sodiumMg": null,
+   "fibre": null
+  },
+  "nova": null,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten",
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [],
+  "claims": [],
+  "labelSource": {
+   "kind": "missing",
+   "verified": false,
+   "note": "Label data not captured yet."
+  },
+  "reportIds": [
+   "R072"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "mcvities-digestive",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "McVitie's",
+  "name": "Digestive",
+  "category": "Biscuits & cookies",
+  "useGroup": "biscuit",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 485,
+   "protein": 7,
+   "carbohydrate": 65,
+   "totalSugar": 16,
+   "addedSugar": 14,
+   "fat": 21,
+   "saturatedFat": 9.5,
+   "transFat": 0.1,
+   "sodiumMg": 500,
+   "fibre": 4
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": [
+    "milk",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Refined wheat flour (maida)",
+   "Whole wheat flour (atta)",
+   "Edible vegetable oil (palm oil)",
+   "Sugar",
+   "Raising agents",
+   "Salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R073"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "open-secret-nutty-cookies",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Open Secret",
+  "name": "Nutty Cookies – Choco Almond",
+  "category": "Biscuits & cookies",
+  "useGroup": "biscuit",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 500,
+   "protein": 9,
+   "carbohydrate": 55,
+   "totalSugar": 20,
+   "addedSugar": 18,
+   "fat": 28,
+   "saturatedFat": 9,
+   "transFat": 0,
+   "sodiumMg": 150,
+   "fibre": 6
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "treenut",
+    "milk"
+   ],
+   "mayContain": [
+    "gluten",
+    "peanut",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Almonds",
+   "Oats",
+   "Jaggery",
+   "Cocoa",
+   "Butter",
+   "Cashews"
+  ],
+  "claims": [
+   "No maida",
+   "No palm oil"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R074"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "parle-g",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Parle",
+  "name": "Parle-G",
+  "category": "Biscuits & cookies",
+  "useGroup": "biscuit",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 454,
+   "protein": 6.9,
+   "carbohydrate": 77,
+   "totalSugar": 25,
+   "addedSugar": 24,
+   "fat": 13.5,
+   "saturatedFat": 6.3,
+   "transFat": 0.1,
+   "sodiumMg": 300,
+   "fibre": 1.5
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten",
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Refined wheat flour (maida)",
+   "Sugar",
+   "Edible vegetable oil (palm oil)",
+   "Invert sugar syrup",
+   "Milk solids",
+   "Raising agents",
+   "Iodised salt",
+   "Emulsifier (INS 322)"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R075"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "sunfeast-farmlite-oats-almonds",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Sunfeast Farmlite",
+  "name": "Oats & Almonds Cookies",
+  "category": "Biscuits & cookies",
+  "useGroup": "biscuit",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 470,
+   "protein": 8,
+   "carbohydrate": 64,
+   "totalSugar": 17,
+   "addedSugar": 15,
+   "fat": 20,
+   "saturatedFat": 9,
+   "transFat": 0.1,
+   "sodiumMg": 350,
+   "fibre": 6
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten",
+    "treenut",
+    "milk"
+   ],
+   "mayContain": [
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Refined wheat flour (maida)",
+   "Oats",
+   "Sugar",
+   "Edible vegetable oil (palm oil)",
+   "Almonds",
+   "Raising agents",
+   "Salt"
+  ],
+  "claims": [
+   "With oats and almonds"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R076"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "britannia-marie-gold",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Britannia",
+  "name": "Marie Gold",
+  "category": "Biscuits & cookies",
+  "useGroup": "biscuit",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 445,
+   "protein": 8,
+   "carbohydrate": 76,
+   "totalSugar": 21,
+   "addedSugar": 20,
+   "fat": 12,
+   "saturatedFat": 6,
+   "transFat": 0.1,
+   "sodiumMg": 400,
+   "fibre": 2
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten",
+    "milk"
+   ],
+   "mayContain": [
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Refined wheat flour (maida)",
+   "Sugar",
+   "Edible vegetable oil (palm oil)",
+   "Invert sugar syrup",
+   "Milk solids",
+   "Raising agents",
+   "Iodised salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "britannia-good-day-cashew",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Britannia",
+  "name": "Good Day Cashew",
+  "category": "Biscuits & cookies",
+  "useGroup": "biscuit",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 500,
+   "protein": 7,
+   "carbohydrate": 66,
+   "totalSugar": 26,
+   "addedSugar": 25,
+   "fat": 23,
+   "saturatedFat": 11,
+   "transFat": 0.1,
+   "sodiumMg": 350,
+   "fibre": 1.5
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten",
+    "milk",
+    "treenut"
+   ],
+   "mayContain": [
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Refined wheat flour (maida)",
+   "Sugar",
+   "Edible vegetable oil (palm oil)",
+   "Cashews",
+   "Butter",
+   "Invert sugar syrup",
+   "Raising agents",
+   "Salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "parle-monaco",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Parle",
+  "name": "Monaco",
+  "category": "Biscuits & cookies",
+  "useGroup": "biscuit",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 500,
+   "protein": 8,
+   "carbohydrate": 64,
+   "totalSugar": 7,
+   "addedSugar": 6,
+   "fat": 24,
+   "saturatedFat": 11,
+   "transFat": 0.1,
+   "sodiumMg": 900,
+   "fibre": 2
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": [
+    "milk"
+   ]
+  },
+  "ingredients": [
+   "Refined wheat flour (maida)",
+   "Edible vegetable oil (palm oil)",
+   "Sugar",
+   "Iodised salt",
+   "Raising agents",
+   "Yeast"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "parle-hide-and-seek",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Parle",
+  "name": "Hide & Seek",
+  "category": "Biscuits & cookies",
+  "useGroup": "biscuit",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 490,
+   "protein": 6,
+   "carbohydrate": 66,
+   "totalSugar": 28,
+   "addedSugar": 27,
+   "fat": 22,
+   "saturatedFat": 11,
+   "transFat": 0.1,
+   "sodiumMg": 270,
+   "fibre": 2
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten",
+    "milk"
+   ],
+   "mayContain": [
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Refined wheat flour (maida)",
+   "Sugar",
+   "Edible vegetable oil (palm oil)",
+   "Chocolate chips",
+   "Cocoa solids",
+   "Invert sugar syrup",
+   "Raising agents",
+   "Salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "mojo-bar-yoghurt-berry",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Mojo Bar",
+  "name": "Energy Bar – Yoghurt Berry & Anti-Oxidants",
+  "category": "Energy & granola bars",
+  "useGroup": "energy-bar",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": null,
+   "protein": null,
+   "carbohydrate": null,
+   "totalSugar": null,
+   "addedSugar": null,
+   "fat": null,
+   "saturatedFat": null,
+   "transFat": null,
+   "sodiumMg": null,
+   "fibre": null
+  },
+  "nova": null,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "gluten",
+    "milk"
+   ]
+  },
+  "ingredients": [],
+  "claims": [],
+  "labelSource": {
+   "kind": "missing",
+   "verified": false,
+   "note": "Label data not captured yet."
+  },
+  "reportIds": [
+   "R077"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "nature-valley-granola-bar",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Nature Valley",
+  "name": "Crunchy Granola Bar",
+  "category": "Energy & granola bars",
+  "useGroup": "energy-bar",
+  "unit": "g",
+  "servingSize": 42,
+  "nutritionPer100": {
+   "energyKcal": 471,
+   "protein": 8,
+   "carbohydrate": 64,
+   "totalSugar": 28,
+   "addedSugar": 27,
+   "fat": 19,
+   "saturatedFat": 2,
+   "transFat": 0,
+   "sodiumMg": 290,
+   "fibre": 5
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": [
+    "soy",
+    "peanut",
+    "treenut"
+   ]
+  },
+  "ingredients": [
+   "Whole grain oats",
+   "Sugar",
+   "Canola oil",
+   "Rice flour",
+   "Honey",
+   "Salt",
+   "Brown sugar syrup"
+  ],
+  "claims": [
+   "Whole grain oats"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R078"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "unibic-fruit-nut-bar",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Unibic",
+  "name": "Snack Bar – Fruit & Nut",
+  "category": "Energy & granola bars",
+  "useGroup": "energy-bar",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 420,
+   "protein": 6,
+   "carbohydrate": 64,
+   "totalSugar": 30,
+   "addedSugar": 25,
+   "fat": 14,
+   "saturatedFat": 5,
+   "transFat": 0,
+   "sodiumMg": 100,
+   "fibre": 5
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "treenut"
+   ],
+   "mayContain": [
+    "gluten",
+    "milk",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Oats",
+   "Liquid glucose",
+   "Raisins",
+   "Almonds",
+   "Sugar",
+   "Edible vegetable oil"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R079"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "wingreens-granola-bar",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Wingreens",
+  "name": "Harvest Granola Bar – Dark Chocolate & Espresso",
+  "category": "Energy & granola bars",
+  "useGroup": "energy-bar",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": null,
+   "protein": null,
+   "carbohydrate": null,
+   "totalSugar": null,
+   "addedSugar": null,
+   "fat": null,
+   "saturatedFat": null,
+   "transFat": null,
+   "sodiumMg": null,
+   "fibre": null
+  },
+  "nova": null,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "treenut"
+   ],
+   "mayContain": [
+    "gluten",
+    "milk"
+   ]
+  },
+  "ingredients": [],
+  "claims": [],
+  "labelSource": {
+   "kind": "missing",
+   "verified": false,
+   "note": "Label data not captured yet."
+  },
+  "reportIds": [
+   "R080"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "yogabar-energy-bar",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Yogabar",
+  "name": "Energy Bar – Chocolate Chunk",
+  "category": "Energy & granola bars",
+  "useGroup": "energy-bar",
+  "unit": "g",
+  "servingSize": 38,
+  "nutritionPer100": {
+   "energyKcal": 400,
+   "protein": 10,
+   "carbohydrate": 60,
+   "totalSugar": 20,
+   "addedSugar": 15,
+   "fat": 13,
+   "saturatedFat": 4,
+   "transFat": 0,
+   "sodiumMg": 70,
+   "fibre": 9
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "treenut",
+    "milk"
+   ],
+   "mayContain": [
+    "peanut",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Oats",
+   "Dates",
+   "Brown rice syrup",
+   "Almonds",
+   "Dark chocolate",
+   "Seeds"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R081"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-bitter-75",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Bitter Chocolate 75%",
+  "category": "Chocolate & cocoa",
+  "useGroup": "chocolate",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 570,
+   "protein": 8,
+   "carbohydrate": 35,
+   "totalSugar": 22,
+   "addedSugar": 21,
+   "fat": 44,
+   "saturatedFat": 27,
+   "transFat": 0.1,
+   "sodiumMg": 20,
+   "fibre": 10
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "milk",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Cocoa solids",
+   "Sugar",
+   "Cocoa butter",
+   "Emulsifier (INS 322)"
+  ],
+  "claims": [
+   "75% cocoa"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R082"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-intense-90",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Bitter Intense Dark 90%",
+  "category": "Chocolate & cocoa",
+  "useGroup": "chocolate",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 600,
+   "protein": 10,
+   "carbohydrate": 23,
+   "totalSugar": 9,
+   "addedSugar": 8,
+   "fat": 50,
+   "saturatedFat": 31,
+   "transFat": 0.1,
+   "sodiumMg": 20,
+   "fibre": 14
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "milk",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Cocoa solids",
+   "Cocoa butter",
+   "Sugar",
+   "Emulsifier (INS 322)"
+  ],
+  "claims": [
+   "90% cocoa"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R083"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-dark-55",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Dark Chocolate 55%",
+  "category": "Chocolate & cocoa",
+  "useGroup": "chocolate",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 540,
+   "protein": 6,
+   "carbohydrate": 52,
+   "totalSugar": 38,
+   "addedSugar": 37,
+   "fat": 34,
+   "saturatedFat": 21,
+   "transFat": 0.1,
+   "sodiumMg": 20,
+   "fibre": 7
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "milk",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Sugar",
+   "Cocoa solids",
+   "Cocoa butter",
+   "Emulsifier (INS 322)"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R084"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "cadbury-bournville-50",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Cadbury",
+  "name": "Bournville Classic 50% Dark",
+  "category": "Chocolate & cocoa",
+  "useGroup": "chocolate",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 520,
+   "protein": 6,
+   "carbohydrate": 55,
+   "totalSugar": 44,
+   "addedSugar": 43,
+   "fat": 30,
+   "saturatedFat": 18,
+   "transFat": 0.1,
+   "sodiumMg": 30,
+   "fibre": 6
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk",
+    "soy"
+   ],
+   "mayContain": [
+    "gluten",
+    "treenut"
+   ]
+  },
+  "ingredients": [
+   "Sugar",
+   "Cocoa solids",
+   "Cocoa butter",
+   "Milk solids",
+   "Emulsifiers (INS 442, INS 476)"
+  ],
+  "claims": [
+   "50% cocoa"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R086",
+   "R085"
+  ],
+  "qcKey": "CADBURY-B50",
+  "qcLine": {
+   "rank": 35,
+   "score": 1.75,
+   "demandTier": 0,
+   "topRatingsCount": 0
+  },
+  "price": {
+   "amount": 129,
+   "packQty": 75,
+   "packUnit": "g",
+   "platform": "Blinkit",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://blinkit.com/prn/cadbury-bournville-rich-cocoa-50-dark-chocolate-bar/prid/556"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "cadbury-bournville-70",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Cadbury",
+  "name": "Bournville Intense 70% Dark",
+  "category": "Chocolate & cocoa",
+  "useGroup": "chocolate",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 580,
+   "protein": 8,
+   "carbohydrate": 40,
+   "totalSugar": 28,
+   "addedSugar": 27,
+   "fat": 42,
+   "saturatedFat": 26,
+   "transFat": 0.1,
+   "sodiumMg": 20,
+   "fibre": 10
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "soy"
+   ],
+   "mayContain": [
+    "milk",
+    "gluten",
+    "treenut"
+   ]
+  },
+  "ingredients": [
+   "Cocoa solids",
+   "Sugar",
+   "Cocoa butter",
+   "Emulsifier (INS 322)"
+  ],
+  "claims": [
+   "70% cocoa"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R087"
+  ],
+  "qcKey": "CADBURY-B70",
+  "qcLine": {
+   "rank": 32,
+   "score": 2,
+   "demandTier": 0,
+   "topRatingsCount": 0
+  },
+  "price": {
+   "amount": 143,
+   "packQty": 75,
+   "packUnit": "g",
+   "platform": "Blinkit",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://blinkit.com/brand/Cadbury%20Bournville"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "get-a-way-belgian",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Get-A-Way",
+  "name": "Belgian Chocolate",
+  "category": "Chocolate & cocoa",
+  "useGroup": "chocolate",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": null,
+   "protein": null,
+   "carbohydrate": null,
+   "totalSugar": null,
+   "addedSugar": null,
+   "fat": null,
+   "saturatedFat": null,
+   "transFat": null,
+   "sodiumMg": null,
+   "fibre": null
+  },
+  "nova": null,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [],
+  "claims": [],
+  "labelSource": {
+   "kind": "missing",
+   "verified": false,
+   "note": "Label data not captured yet."
+  },
+  "reportIds": [
+   "R088"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "go-zero-chocobar",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Go Zero",
+  "name": "Madagascar Chocobar",
+  "category": "Chocolate & cocoa",
+  "useGroup": "ice-cream",
+  "unit": "g",
+  "servingSize": 60,
+  "nutritionPer100": {
+   "energyKcal": null,
+   "protein": null,
+   "carbohydrate": null,
+   "totalSugar": null,
+   "addedSugar": null,
+   "fat": null,
+   "saturatedFat": null,
+   "transFat": null,
+   "sodiumMg": null,
+   "fibre": null
+  },
+  "nova": null,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [],
+  "claims": [],
+  "labelSource": {
+   "kind": "missing",
+   "verified": false,
+   "note": "Label data not captured yet."
+  },
+  "reportIds": [
+   "R089"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "hersheys-cocoa-powder",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Hershey's",
+  "name": "Unsweetened 100% Cocoa Powder",
+  "category": "Chocolate & cocoa",
+  "useGroup": "chocolate",
+  "unit": "g",
+  "servingSize": 5,
+  "nutritionPer100": {
+   "energyKcal": 370,
+   "protein": 20,
+   "carbohydrate": 50,
+   "totalSugar": 1,
+   "addedSugar": 0,
+   "fat": 12,
+   "saturatedFat": 7,
+   "transFat": 0,
+   "sodiumMg": 20,
+   "fibre": 33
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Cocoa powder"
+  ],
+  "claims": [
+   "100% cocoa",
+   "Unsweetened"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R090"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "lindt-70",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Lindt",
+  "name": "70% Cocoa",
+  "category": "Chocolate & cocoa",
+  "useGroup": "chocolate",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 566,
+   "protein": 9.5,
+   "carbohydrate": 34,
+   "totalSugar": 29,
+   "addedSugar": 28,
+   "fat": 41,
+   "saturatedFat": 25,
+   "transFat": 0.1,
+   "sodiumMg": 10,
+   "fibre": 11
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "soy"
+   ],
+   "mayContain": [
+    "milk",
+    "treenut"
+   ]
+  },
+  "ingredients": [
+   "Cocoa mass",
+   "Sugar",
+   "Cocoa butter",
+   "Emulsifier (soya lecithin)",
+   "Vanilla"
+  ],
+  "claims": [
+   "70% cocoa"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R091"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "lindt-85",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Lindt",
+  "name": "85% Cocoa",
+  "category": "Chocolate & cocoa",
+  "useGroup": "chocolate",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 584,
+   "protein": 12.5,
+   "carbohydrate": 19,
+   "totalSugar": 11,
+   "addedSugar": 11,
+   "fat": 46,
+   "saturatedFat": 28,
+   "transFat": 0.1,
+   "sodiumMg": 10,
+   "fibre": 15
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "milk",
+    "treenut",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Cocoa mass",
+   "Cocoa butter",
+   "Fat-reduced cocoa",
+   "Demerara sugar"
+  ],
+  "claims": [
+   "85% cocoa"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R092"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "paul-and-mike-99",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Paul & Mike",
+  "name": "99% Dark Chocolate",
+  "category": "Chocolate & cocoa",
+  "useGroup": "chocolate",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 600,
+   "protein": 13,
+   "carbohydrate": 15,
+   "totalSugar": 1,
+   "addedSugar": 0,
+   "fat": 52,
+   "saturatedFat": 32,
+   "transFat": 0,
+   "sodiumMg": 10,
+   "fibre": 20
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "milk",
+    "treenut"
+   ]
+  },
+  "ingredients": [
+   "Cocoa mass",
+   "Cocoa butter"
+  ],
+  "claims": [
+   "99% cocoa",
+   "Single origin"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R093"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "twt-dark-chocolate-orange",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "The Whole Truth",
+  "name": "Dark Chocolate – Orange",
+  "category": "Chocolate & cocoa",
+  "useGroup": "chocolate",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": null,
+   "protein": null,
+   "carbohydrate": null,
+   "totalSugar": null,
+   "addedSugar": null,
+   "fat": null,
+   "saturatedFat": null,
+   "transFat": null,
+   "sodiumMg": null,
+   "fibre": null
+  },
+  "nova": null,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": [
+    "milk",
+    "treenut"
+   ]
+  },
+  "ingredients": [],
+  "claims": [],
+  "labelSource": {
+   "kind": "missing",
+   "verified": false,
+   "note": "Label data not captured yet."
+  },
+  "reportIds": [
+   "R094"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "cadbury-dairy-milk",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Cadbury",
+  "name": "Dairy Milk",
+  "category": "Chocolate & cocoa",
+  "useGroup": "chocolate",
+  "unit": "g",
+  "servingSize": 25,
+  "nutritionPer100": {
+   "energyKcal": 534,
+   "protein": 7.3,
+   "carbohydrate": 58,
+   "totalSugar": 56,
+   "addedSugar": 52,
+   "fat": 30,
+   "saturatedFat": 18,
+   "transFat": 0.2,
+   "sodiumMg": 90,
+   "fibre": 1
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk",
+    "soy"
+   ],
+   "mayContain": [
+    "gluten",
+    "treenut"
+   ]
+  },
+  "ingredients": [
+   "Sugar",
+   "Milk solids",
+   "Cocoa butter",
+   "Cocoa solids",
+   "Emulsifiers (INS 442, INS 476)",
+   "Flavours"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "licious-chicken-curry-cut",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Licious",
+  "name": "Chicken Cut",
+  "category": "Meat",
+  "useGroup": "meat",
+  "unit": "g",
+  "servingSize": 100,
+  "nutritionPer100": {
+   "energyKcal": 140,
+   "protein": 19,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 7,
+   "saturatedFat": 2,
+   "transFat": 0.1,
+   "sodiumMg": 70,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "non-veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Chicken"
+  ],
+  "claims": [
+   "Antibiotic residue free"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R095"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "alpino-natural-pb",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Alpino",
+  "name": "Natural Peanut Butter",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 627,
+   "protein": 30,
+   "carbohydrate": 17,
+   "totalSugar": 5,
+   "addedSugar": 0,
+   "fat": 49,
+   "saturatedFat": 8.6,
+   "transFat": 0,
+   "sodiumMg": 15,
+   "fibre": 9
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Roasted peanuts"
+  ],
+  "claims": [
+   "Unsweetened",
+   "100% peanuts"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R096"
+  ],
+  "qcKey": "ALPINO-PB",
+  "qcLine": {
+   "rank": 36,
+   "score": 1.5,
+   "demandTier": 0,
+   "topRatingsCount": 716
+  },
+  "price": {
+   "amount": 365,
+   "packQty": 1000,
+   "packUnit": "g",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/alpino-natural-peanut-butter-crunch-unsweetened/pvid/5a38f84a-1acc-46f7-87fa-534cb9917389",
+   "https://blinkit.com/prn/alpino-natural-smooth-unsweetened-peanut-butter/prid/460593",
+   "https://www.zepto.com/pn/alpino-natural-peanut-butter-smooth-high-protein-peanut-butter-creamy-gluten-free-vegan/pvid/183e6f89-12dd-407f-8e57-96337930ff03"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "alpino-natural-pb-crunch",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Alpino",
+  "name": "Natural Peanut Butter – Crunch",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 627,
+   "protein": 30,
+   "carbohydrate": 17,
+   "totalSugar": 5,
+   "addedSugar": 0,
+   "fat": 49,
+   "saturatedFat": 8.6,
+   "transFat": 0,
+   "sodiumMg": 15,
+   "fibre": 9
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Roasted peanuts"
+  ],
+  "claims": [
+   "Unsweetened",
+   "100% peanuts"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R097"
+  ],
+  "qcKey": "ALPINO-PB",
+  "qcLine": {
+   "rank": 36,
+   "score": 1.5,
+   "demandTier": 0,
+   "topRatingsCount": 716
+  },
+  "price": {
+   "amount": 365,
+   "packQty": 1000,
+   "packUnit": "g",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/alpino-natural-peanut-butter-crunch-unsweetened/pvid/5a38f84a-1acc-46f7-87fa-534cb9917389",
+   "https://blinkit.com/prn/alpino-natural-smooth-unsweetened-peanut-butter/prid/460593",
+   "https://www.zepto.com/pn/alpino-natural-peanut-butter-smooth-high-protein-peanut-butter-creamy-gluten-free-vegan/pvid/183e6f89-12dd-407f-8e57-96337930ff03"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "atom-protein-pb",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "AS-IT-IS Nutrition",
+  "name": "ATOM High Protein Peanut Butter – Crunchy Dark Chocolate",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": null,
+   "protein": null,
+   "carbohydrate": null,
+   "totalSugar": null,
+   "addedSugar": null,
+   "fat": null,
+   "saturatedFat": null,
+   "transFat": null,
+   "sodiumMg": null,
+   "fibre": null
+  },
+  "nova": null,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut",
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [],
+  "claims": [],
+  "labelSource": {
+   "kind": "missing",
+   "verified": false,
+   "note": "Label data not captured yet."
+  },
+  "reportIds": [
+   "R098"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "disano-pb",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "DiSano",
+  "name": "Peanut Butter",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 590,
+   "protein": 25,
+   "carbohydrate": 22,
+   "totalSugar": 9,
+   "addedSugar": 6,
+   "fat": 46,
+   "saturatedFat": 9,
+   "transFat": 0,
+   "sodiumMg": 300,
+   "fibre": 7
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Roasted peanuts",
+   "Sugar",
+   "Edible vegetable oil",
+   "Iodised salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R099"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "disano-pb-crunchy",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "DiSano",
+  "name": "Peanut Butter – Crunchy",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 590,
+   "protein": 25,
+   "carbohydrate": 22,
+   "totalSugar": 9,
+   "addedSugar": 6,
+   "fat": 46,
+   "saturatedFat": 9,
+   "transFat": 0,
+   "sodiumMg": 300,
+   "fibre": 7
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Roasted peanuts",
+   "Sugar",
+   "Edible vegetable oil",
+   "Iodised salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R100"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "funfoods-pb",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Dr. Oetker FunFoods",
+  "name": "Peanut Butter",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 600,
+   "protein": 23,
+   "carbohydrate": 25,
+   "totalSugar": 12,
+   "addedSugar": 9,
+   "fat": 46,
+   "saturatedFat": 9,
+   "transFat": 0,
+   "sodiumMg": 330,
+   "fibre": 6
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Roasted peanuts",
+   "Sugar",
+   "Edible vegetable oil",
+   "Iodised salt",
+   "Stabiliser"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R101"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "happilo-pb-crunchy",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Happilo",
+  "name": "Peanut Butter – Crunchy",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 600,
+   "protein": 25,
+   "carbohydrate": 21,
+   "totalSugar": 8,
+   "addedSugar": 6,
+   "fat": 48,
+   "saturatedFat": 9,
+   "transFat": 0,
+   "sodiumMg": 300,
+   "fibre": 7
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": [
+    "treenut"
+   ]
+  },
+  "ingredients": [
+   "Roasted peanuts",
+   "Sugar",
+   "Edible vegetable oil",
+   "Iodised salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R102"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "muscleblaze-protein-pb",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "MuscleBlaze",
+  "name": "Protein Peanut Butter – Creamy Dark Chocolate",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 580,
+   "protein": 30,
+   "carbohydrate": 25,
+   "totalSugar": 6,
+   "addedSugar": 4,
+   "fat": 40,
+   "saturatedFat": 8,
+   "transFat": 0,
+   "sodiumMg": 200,
+   "fibre": 6
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut",
+    "milk"
+   ],
+   "mayContain": [
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Roasted peanuts",
+   "Whey protein",
+   "Cocoa",
+   "Jaggery",
+   "Edible vegetable oil",
+   "Salt"
+  ],
+  "claims": [
+   "High protein"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R103"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "myfitness-pb-chocolate",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "MYFITNESS",
+  "name": "Peanut Butter – Smooth Chocolate",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 600,
+   "protein": 26,
+   "carbohydrate": 24,
+   "totalSugar": 10,
+   "addedSugar": 8,
+   "fat": 46,
+   "saturatedFat": 9,
+   "transFat": 0,
+   "sodiumMg": 250,
+   "fibre": 6
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": [
+    "milk",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Roasted peanuts",
+   "Cocoa",
+   "Sugar",
+   "Edible vegetable oil",
+   "Salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R104"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "pintola-all-natural-crunchy",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Pintola",
+  "name": "All Natural Peanut Butter – Crunchy",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 620,
+   "protein": 30,
+   "carbohydrate": 18,
+   "totalSugar": 5,
+   "addedSugar": 0,
+   "fat": 50,
+   "saturatedFat": 9,
+   "transFat": 0,
+   "sodiumMg": 10,
+   "fibre": 8
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Roasted peanuts"
+  ],
+  "claims": [
+   "Unsweetened",
+   "No added oil"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R105"
+  ],
+  "qcKey": "PINTOLA-PB",
+  "qcLine": {
+   "rank": 17,
+   "score": 7.25,
+   "demandTier": 2,
+   "topRatingsCount": 15107
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://www.zepto.com/pn/pintola-all-natural-peanut-butter-crunchy/pvid/a2b3f4dd-5c83-472b-801c-158e2845231d",
+   "https://blinkit.com/prn/pintola-all-natural-crunchy-peanut-butter-unsweetened/prid/425544",
+   "https://www.bigbasket.com/pd/40127459/pintola-organic-peanut-butter-crunchy-unsweetened-100-natural-350-g/"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "pintola-pb",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Pintola",
+  "name": "Peanut Butter",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 600,
+   "protein": 27,
+   "carbohydrate": 20,
+   "totalSugar": 8,
+   "addedSugar": 5,
+   "fat": 49,
+   "saturatedFat": 9,
+   "transFat": 0,
+   "sodiumMg": 300,
+   "fibre": 7
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Roasted peanuts",
+   "Sugar",
+   "Edible vegetable oil",
+   "Iodised salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R106"
+  ],
+  "qcKey": "PINTOLA-PB",
+  "qcLine": {
+   "rank": 17,
+   "score": 7.25,
+   "demandTier": 2,
+   "topRatingsCount": 15107
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://www.zepto.com/pn/pintola-all-natural-peanut-butter-crunchy/pvid/a2b3f4dd-5c83-472b-801c-158e2845231d",
+   "https://blinkit.com/prn/pintola-all-natural-crunchy-peanut-butter-unsweetened/prid/425544",
+   "https://www.bigbasket.com/pd/40127459/pintola-organic-peanut-butter-crunchy-unsweetened-100-natural-350-g/"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "sundrop-pb-creamy",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Sundrop",
+  "name": "Peanut Butter – Creamy",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 607,
+   "protein": 24,
+   "carbohydrate": 22,
+   "totalSugar": 10,
+   "addedSugar": 7,
+   "fat": 47,
+   "saturatedFat": 9.5,
+   "transFat": 0,
+   "sodiumMg": 400,
+   "fibre": 6
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Roasted peanuts",
+   "Sugar",
+   "Edible vegetable oil",
+   "Iodised salt",
+   "Stabiliser"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R107",
+   "R108"
+  ],
+  "qcKey": "SUNDROP-PB",
+  "qcLine": {
+   "rank": 27,
+   "score": 4,
+   "demandTier": 1,
+   "topRatingsCount": 1800
+  },
+  "price": {
+   "amount": 254,
+   "packQty": 924,
+   "packUnit": "g",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/sundrop-peanut-butter-creamy-jar/pvid/fe1db8af-fad9-45f9-be6f-acf7277bc43c",
+   "https://www.zepto.com/pn/sundrop-peanut-butter-100-natural-creamy/pvid/8c40bdfc-92a6-4a4a-8413-970d2ab24bbe",
+   "https://blinkit.com/prn/sundrop-creamy-peanut-butter/prid/166"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "butternut-natural-creamy",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "The Butternut Co",
+  "name": "Natural Peanut Butter Creamy",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 620,
+   "protein": 29,
+   "carbohydrate": 18,
+   "totalSugar": 5,
+   "addedSugar": 0,
+   "fat": 50,
+   "saturatedFat": 9,
+   "transFat": 0,
+   "sodiumMg": 10,
+   "fibre": 8
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Roasted peanuts"
+  ],
+  "claims": [
+   "Unsweetened"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R109"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "butternut-pb-crunchy",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "The Butternut Co",
+  "name": "Peanut Butter – Crunchy",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 620,
+   "protein": 29,
+   "carbohydrate": 18,
+   "totalSugar": 5,
+   "addedSugar": 0,
+   "fat": 50,
+   "saturatedFat": 9,
+   "transFat": 0,
+   "sodiumMg": 10,
+   "fibre": 8
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Roasted peanuts"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R110"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "twt-pb-crunchy-dark-chocolate",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "The Whole Truth",
+  "name": "Peanut Butter – Crunchy Dark Chocolate",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 590,
+   "protein": 24,
+   "carbohydrate": 28,
+   "totalSugar": 13,
+   "addedSugar": 0,
+   "fat": 45,
+   "saturatedFat": 10,
+   "transFat": 0,
+   "sodiumMg": 150,
+   "fibre": 8
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": [
+    "treenut",
+    "milk"
+   ]
+  },
+  "ingredients": [
+   "Roasted peanuts",
+   "Dates",
+   "Cocoa",
+   "Cocoa butter",
+   "Rock salt"
+  ],
+  "claims": [
+   "No added sugar"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R111"
+  ],
+  "qcKey": "TWT-PB-CRUNCHY-DC",
+  "qcLine": {
+   "rank": 37,
+   "score": 1,
+   "demandTier": 0,
+   "topRatingsCount": 860
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://www.zepto.com/pn/the-whole-truth-crunchy-dark-chocolate-peanut-butter/pvid/d1e65392-14d3-4214-b6fa-9891465d70fe"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "yogabar-pb-dark-chocolate",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Yogabar",
+  "name": "Peanut Butter – Creamy Dark Chocolate",
+  "category": "Peanut butter",
+  "useGroup": "nut-butter",
+  "unit": "g",
+  "servingSize": 32,
+  "nutritionPer100": {
+   "energyKcal": 600,
+   "protein": 25,
+   "carbohydrate": 23,
+   "totalSugar": 11,
+   "addedSugar": 8,
+   "fat": 46,
+   "saturatedFat": 10,
+   "transFat": 0,
+   "sodiumMg": 200,
+   "fibre": 6
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut"
+   ],
+   "mayContain": [
+    "milk",
+    "soy",
+    "treenut"
+   ]
+  },
+  "ingredients": [
+   "Roasted peanuts",
+   "Dark chocolate",
+   "Sugar",
+   "Edible vegetable oil",
+   "Salt"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R112"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "apis-himalaya-honey",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Apis",
+  "name": "Himalaya Honey",
+  "category": "Honey",
+  "useGroup": "honey",
+  "unit": "g",
+  "servingSize": 15,
+  "nutritionPer100": {
+   "energyKcal": 320,
+   "protein": 0.3,
+   "carbohydrate": 80,
+   "totalSugar": 78,
+   "addedSugar": 78,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 5,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Honey"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R113"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "patanjali-honey",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Patanjali",
+  "name": "Honey",
+  "category": "Honey",
+  "useGroup": "honey",
+  "unit": "g",
+  "servingSize": 15,
+  "nutritionPer100": {
+   "energyKcal": 320,
+   "protein": 0.3,
+   "carbohydrate": 80,
+   "totalSugar": 78,
+   "addedSugar": 78,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 5,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Honey"
+  ],
+  "claims": [
+   "No added sugar"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R114"
+  ],
+  "qcKey": "PATANJALI-HONEY",
+  "qcLine": {
+   "rank": 26,
+   "score": 4,
+   "demandTier": 1,
+   "topRatingsCount": 6200
+  },
+  "price": {
+   "amount": 163,
+   "packQty": 500,
+   "packUnit": "g",
+   "platform": "Zepto",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/patanjali-honey-natural-shahed-no-added-sugar-sahad/pvid/04b32871-ec18-4508-ac86-07403f338c72",
+   "https://blinkit.com/prn/patanjali-honey/prid/10732"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "saffola-honey-sundarbans",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Saffola",
+  "name": "Honey Sundarbans",
+  "category": "Honey",
+  "useGroup": "honey",
+  "unit": "g",
+  "servingSize": 15,
+  "nutritionPer100": {
+   "energyKcal": 320,
+   "protein": 0.3,
+   "carbohydrate": 80,
+   "totalSugar": 78,
+   "addedSugar": 78,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 5,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Forest honey"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R115"
+  ],
+  "qcKey": "SAFFOLA-HONEY",
+  "qcLine": {
+   "rank": 29,
+   "score": 3,
+   "demandTier": 1,
+   "topRatingsCount": 6143
+  },
+  "price": {
+   "amount": 202,
+   "packQty": 500,
+   "packUnit": "g",
+   "platform": "Blinkit",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/saffola-honey-active-made-with-forest-honey-pure-honey-no-sugar-adulteration/pvid/1ecef729-ac17-4f2f-b7da-04b9bb3e0673",
+   "https://www.zepto.com/pn/saffola-honey-active-made-with-forest-honey-pure-honey-no-sugar-adulteration/pvid/60963468-92f1-45d8-a876-e5fe20606a2d",
+   "https://blinkit.com/prn/saffola-honey-active-500-g/prid/425301"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "saffola-organic-honey",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Saffola",
+  "name": "Organic Honey",
+  "category": "Honey",
+  "useGroup": "honey",
+  "unit": "g",
+  "servingSize": 15,
+  "nutritionPer100": {
+   "energyKcal": 320,
+   "protein": 0.3,
+   "carbohydrate": 80,
+   "totalSugar": 78,
+   "addedSugar": 78,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 5,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Organic honey"
+  ],
+  "claims": [
+   "Organic"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R116"
+  ],
+  "qcKey": "SAFFOLA-HONEY",
+  "qcLine": {
+   "rank": 29,
+   "score": 3,
+   "demandTier": 1,
+   "topRatingsCount": 6143
+  },
+  "price": {
+   "amount": 202,
+   "packQty": 500,
+   "packUnit": "g",
+   "platform": "Blinkit",
+   "capturedAt": "2026-10-02"
+  },
+  "sourceLinks": [
+   "https://www.zepto.com/pn/saffola-honey-active-made-with-forest-honey-pure-honey-no-sugar-adulteration/pvid/1ecef729-ac17-4f2f-b7da-04b9bb3e0673",
+   "https://www.zepto.com/pn/saffola-honey-active-made-with-forest-honey-pure-honey-no-sugar-adulteration/pvid/60963468-92f1-45d8-a876-e5fe20606a2d",
+   "https://blinkit.com/prn/saffola-honey-active-500-g/prid/425301"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "vedaka-honey",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Vedaka",
+  "name": "Honey",
+  "category": "Honey",
+  "useGroup": "honey",
+  "unit": "g",
+  "servingSize": 15,
+  "nutritionPer100": {
+   "energyKcal": 320,
+   "protein": 0.3,
+   "carbohydrate": 80,
+   "totalSugar": 78,
+   "addedSugar": 78,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 5,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Honey"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R117"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "zandu-pure-honey",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Zandu",
+  "name": "Pure Honey",
+  "category": "Honey",
+  "useGroup": "honey",
+  "unit": "g",
+  "servingSize": 15,
+  "nutritionPer100": {
+   "energyKcal": 320,
+   "protein": 0.3,
+   "carbohydrate": 80,
+   "totalSugar": 78,
+   "addedSugar": 78,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 5,
+   "fibre": 0
+  },
+  "nova": 1,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Honey"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R118"
+  ],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "twt-high-protein-bar",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "The Whole Truth",
+  "name": "High Protein Bar",
+  "category": "Protein bar",
+  "useGroup": "protein-bar",
+  "unit": "g",
+  "servingSize": 52,
+  "nutritionPer100": {
+   "energyKcal": 430,
+   "protein": 23,
+   "carbohydrate": 40,
+   "totalSugar": 20,
+   "addedSugar": 0,
+   "fat": 20,
+   "saturatedFat": 4,
+   "transFat": 0,
+   "sodiumMg": 150,
+   "fibre": 8
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "peanut",
+    "milk"
+   ],
+   "mayContain": [
+    "treenut",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Dates",
+   "Whey protein",
+   "Peanuts",
+   "Cocoa",
+   "Almonds"
+  ],
+  "claims": [
+   "No added sugar",
+   "No preservatives"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R125"
+  ],
+  "qcKey": "TWT-BAR",
+  "qcLine": {
+   "rank": 38,
+   "score": 0.75,
+   "demandTier": 0,
+   "topRatingsCount": 0
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://www.zeptonow.com/pn/the-whole-truth-peanut-butter-protein-bar/pvid/0b313bc4-9c87-49e0-9403-fca8ea70bc25"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "yogabar-20g-protein-bar",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Yogabar",
+  "name": "20 g Protein Bar – Chocolate Brownie",
+  "category": "Protein bar",
+  "useGroup": "protein-bar",
+  "unit": "g",
+  "servingSize": 60,
+  "nutritionPer100": {
+   "energyKcal": 380,
+   "protein": 33,
+   "carbohydrate": 40,
+   "totalSugar": 6,
+   "addedSugar": 2,
+   "fat": 12,
+   "saturatedFat": 5,
+   "transFat": 0,
+   "sodiumMg": 300,
+   "fibre": 10
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk",
+    "soy",
+    "treenut"
+   ],
+   "mayContain": [
+    "peanut",
+    "gluten"
+   ]
+  },
+  "ingredients": [
+   "Protein blend (whey, soy)",
+   "Fibre",
+   "Almonds",
+   "Dark chocolate",
+   "Sweetener (INS 955)"
+  ],
+  "claims": [
+   "20 g protein"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R128"
+  ],
+  "qcKey": "YOGABAR-BARS",
+  "qcLine": {
+   "rank": 31,
+   "score": 2,
+   "demandTier": 1,
+   "topRatingsCount": 9142
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://blinkit.com/prn/yoga-bar-assorted-breakfast-protein-bar-pack-of-6/prid/475628",
+   "https://www.zepto.com/pn/yoga-bar-power-up-20g-protein-bar-coffee-crush-no-added-sugar/pvid/0e9cca8e-0250-4e3a-aa15-c498248a7c9d"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "mb-biozyme-iso-zero",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "MuscleBlaze",
+  "name": "Biozyme Iso Zero",
+  "category": "Whey protein",
+  "useGroup": "protein-powder",
+  "unit": "g",
+  "servingSize": 35,
+  "nutritionPer100": {
+   "energyKcal": 380,
+   "protein": 80,
+   "carbohydrate": 6,
+   "totalSugar": 2,
+   "addedSugar": 0,
+   "fat": 2,
+   "saturatedFat": 1,
+   "transFat": 0,
+   "sodiumMg": 300,
+   "fibre": 0
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": [
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Whey protein isolate",
+   "Cocoa",
+   "Enzyme blend",
+   "Sweetener (INS 955)",
+   "Flavour"
+  ],
+  "claims": [
+   "Zero sugar"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R150"
+  ],
+  "qcKey": "MB-ISOZERO",
+  "qcLine": {
+   "rank": 33,
+   "score": 2,
+   "demandTier": 0,
+   "topRatingsCount": 0
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://blinkit.com/prn/muscleblaze-biozyme-iso-zero-100percent-pure-whey-protein-(ice-cream-chocolate)/prid/548029"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "mb-biozyme-performance",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "MuscleBlaze",
+  "name": "Biozyme Performance Whey",
+  "category": "Whey protein",
+  "useGroup": "protein-powder",
+  "unit": "g",
+  "servingSize": 40,
+  "nutritionPer100": {
+   "energyKcal": 380,
+   "protein": 62,
+   "carbohydrate": 18,
+   "totalSugar": 6,
+   "addedSugar": 2,
+   "fat": 6,
+   "saturatedFat": 3,
+   "transFat": 0,
+   "sodiumMg": 300,
+   "fibre": 0
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": [
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Whey protein concentrate",
+   "Whey protein isolate",
+   "Cocoa",
+   "Enzyme blend",
+   "Sugar",
+   "Sweetener (INS 955)",
+   "Flavour"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R151"
+  ],
+  "qcKey": "MB-PERF",
+  "qcLine": {
+   "rank": 34,
+   "score": 2,
+   "demandTier": 0,
+   "topRatingsCount": 0
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://blinkit.com/prn/muscleblaze-biozyme-performance-whey-protein-rich-chocolate/prid/539304"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "twt-raw-whey-isolate",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "The Whole Truth",
+  "name": "Raw Whey Protein Isolate",
+  "category": "Whey protein",
+  "useGroup": "protein-powder",
+  "unit": "g",
+  "servingSize": 30,
+  "nutritionPer100": {
+   "energyKcal": 370,
+   "protein": 90,
+   "carbohydrate": 2,
+   "totalSugar": 1,
+   "addedSugar": 0,
+   "fat": 0.5,
+   "saturatedFat": 0.3,
+   "transFat": 0,
+   "sodiumMg": 200,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Whey protein isolate"
+  ],
+  "claims": [
+   "Unflavoured",
+   "Single ingredient"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R168"
+  ],
+  "qcKey": "TWT-WHEY-ISO",
+  "qcLine": {
+   "rank": 39,
+   "score": 0.75,
+   "demandTier": 0,
+   "topRatingsCount": 0
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://www.zepto.com/brand/The_whole_truth/a95ddf16-f4e2-4933-845c-b95defe6c44f"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "twt-whey-light-cocoa",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "The Whole Truth",
+  "name": "Whey Protein – Light Cocoa 24 g",
+  "category": "Whey protein",
+  "useGroup": "protein-powder",
+  "unit": "g",
+  "servingSize": 34,
+  "nutritionPer100": {
+   "energyKcal": 380,
+   "protein": 71,
+   "carbohydrate": 10,
+   "totalSugar": 5,
+   "addedSugar": 0,
+   "fat": 6,
+   "saturatedFat": 3.5,
+   "transFat": 0,
+   "sodiumMg": 250,
+   "fibre": 3
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Whey protein concentrate",
+   "Cocoa",
+   "Dates powder"
+  ],
+  "claims": [
+   "24 g protein",
+   "No artificial sweetener"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [
+   "R172"
+  ],
+  "qcKey": "TWT-WHEY-COCOA",
+  "qcLine": {
+   "rank": 30,
+   "score": 3,
+   "demandTier": 0,
+   "topRatingsCount": 0
+  },
+  "price": null,
+  "sourceLinks": [
+   "https://www.zepto.com/brand/The_whole_truth/a95ddf16-f4e2-4933-845c-b95defe6c44f"
+  ],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "maggi-masala-noodles",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Maggi",
+  "name": "2-Minute Masala Noodles",
+  "category": "Noodles & instant food",
+  "useGroup": "noodles",
+  "unit": "g",
+  "servingSize": 70,
+  "nutritionPer100": {
+   "energyKcal": 395,
+   "protein": 8.5,
+   "carbohydrate": 59,
+   "totalSugar": 2.5,
+   "addedSugar": 1.5,
+   "fat": 14,
+   "saturatedFat": 6.8,
+   "transFat": 0.1,
+   "sodiumMg": 1200,
+   "fibre": 3
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": [
+    "milk",
+    "soy",
+    "mustard"
+   ]
+  },
+  "ingredients": [
+   "Refined wheat flour (maida)",
+   "Palm oil",
+   "Iodised salt",
+   "Wheat gluten",
+   "Masala tastemaker (spices and condiments, onion powder, garlic powder, sugar, flavour enhancer INS 635)"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "maggi-atta-noodles",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Maggi",
+  "name": "Nutri-licious Atta Noodles",
+  "category": "Noodles & instant food",
+  "useGroup": "noodles",
+  "unit": "g",
+  "servingSize": 72,
+  "nutritionPer100": {
+   "energyKcal": 380,
+   "protein": 10,
+   "carbohydrate": 58,
+   "totalSugar": 2.5,
+   "addedSugar": 1.5,
+   "fat": 12,
+   "saturatedFat": 5.5,
+   "transFat": 0.1,
+   "sodiumMg": 1000,
+   "fibre": 7
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": [
+    "milk",
+    "soy",
+    "mustard"
+   ]
+  },
+  "ingredients": [
+   "Whole wheat flour (atta)",
+   "Palm oil",
+   "Iodised salt",
+   "Wheat gluten",
+   "Masala tastemaker (spices and condiments, onion powder, garlic powder, sugar)"
+  ],
+  "claims": [
+   "Made with atta",
+   "High fibre"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "yippee-magic-masala",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Sunfeast",
+  "name": "YiPPee! Magic Masala Noodles",
+  "category": "Noodles & instant food",
+  "useGroup": "noodles",
+  "unit": "g",
+  "servingSize": 70,
+  "nutritionPer100": {
+   "energyKcal": 430,
+   "protein": 8,
+   "carbohydrate": 60,
+   "totalSugar": 2,
+   "addedSugar": 1,
+   "fat": 17,
+   "saturatedFat": 8,
+   "transFat": 0.1,
+   "sodiumMg": 1150,
+   "fibre": 3
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "gluten"
+   ],
+   "mayContain": [
+    "milk",
+    "soy"
+   ]
+  },
+  "ingredients": [
+   "Refined wheat flour (maida)",
+   "Palm oil",
+   "Iodised salt",
+   "Masala (spices and condiments, onion, garlic, sugar, flavour enhancer INS 627 and INS 631)"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "coca-cola",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Coca-Cola",
+  "name": "Coca-Cola",
+  "category": "Drinks",
+  "useGroup": "soft-drink",
+  "unit": "ml",
+  "servingSize": 300,
+  "nutritionPer100": {
+   "energyKcal": 44,
+   "protein": 0,
+   "carbohydrate": 10.6,
+   "totalSugar": 10.6,
+   "addedSugar": 10.6,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 10,
+   "fibre": 0
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Carbonated water",
+   "Sugar",
+   "Acidity regulator (INS 338)",
+   "Caffeine",
+   "Colour (INS 150d)",
+   "Natural flavours"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "coke-zero",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Coca-Cola",
+  "name": "Coke Zero",
+  "category": "Drinks",
+  "useGroup": "soft-drink",
+  "unit": "ml",
+  "servingSize": 300,
+  "nutritionPer100": {
+   "energyKcal": 0.3,
+   "protein": 0,
+   "carbohydrate": 0,
+   "totalSugar": 0,
+   "addedSugar": 0,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 10,
+   "fibre": 0
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Carbonated water",
+   "Acidity regulators (INS 338, INS 331)",
+   "Sweeteners (INS 951, INS 950)",
+   "Caffeine",
+   "Colour (INS 150d)",
+   "Natural flavours"
+  ],
+  "claims": [
+   "No sugar"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "thums-up",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Thums Up",
+  "name": "Thums Up",
+  "category": "Drinks",
+  "useGroup": "soft-drink",
+  "unit": "ml",
+  "servingSize": 300,
+  "nutritionPer100": {
+   "energyKcal": 41,
+   "protein": 0,
+   "carbohydrate": 10.4,
+   "totalSugar": 10.4,
+   "addedSugar": 10.4,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 10,
+   "fibre": 0
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Carbonated water",
+   "Sugar",
+   "Acidity regulator (INS 338)",
+   "Caffeine",
+   "Colour (INS 150d)",
+   "Flavours"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "real-mixed-fruit",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Real",
+  "name": "Fruit Power Mixed Fruit",
+  "category": "Drinks",
+  "useGroup": "juice",
+  "unit": "ml",
+  "servingSize": 200,
+  "nutritionPer100": {
+   "energyKcal": 55,
+   "protein": 0.2,
+   "carbohydrate": 13.5,
+   "totalSugar": 13,
+   "addedSugar": 9,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 10,
+   "fibre": 0.2
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Water",
+   "Mixed fruit pulp and concentrates",
+   "Sugar",
+   "Acidity regulator (INS 330)",
+   "Vitamin C"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "tropicana-orange-100",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Tropicana",
+  "name": "100% Orange Juice",
+  "category": "Drinks",
+  "useGroup": "juice",
+  "unit": "ml",
+  "servingSize": 200,
+  "nutritionPer100": {
+   "energyKcal": 46,
+   "protein": 0.6,
+   "carbohydrate": 10.5,
+   "totalSugar": 10,
+   "addedSugar": 0,
+   "fat": 0,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 5,
+   "fibre": 0.2
+  },
+  "nova": 3,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Orange juice from concentrate"
+  ],
+  "claims": [
+   "No added sugar"
+  ],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-masti-buttermilk",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Masti Spiced Buttermilk",
+  "category": "Drinks",
+  "useGroup": "dairy-drink",
+  "unit": "ml",
+  "servingSize": 200,
+  "nutritionPer100": {
+   "energyKcal": 15,
+   "protein": 0.9,
+   "carbohydrate": 1.2,
+   "totalSugar": 1.2,
+   "addedSugar": 0,
+   "fat": 0.7,
+   "saturatedFat": 0.5,
+   "transFat": 0,
+   "sodiumMg": 150,
+   "fibre": 0
+  },
+  "nova": 2,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Toned milk",
+   "Water",
+   "Salt",
+   "Green chilli",
+   "Ginger",
+   "Curry leaves",
+   "Coriander leaves",
+   "Asafoetida"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "amul-kool-kesar",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Amul",
+  "name": "Kool Kesar Flavoured Milk",
+  "category": "Drinks",
+  "useGroup": "dairy-drink",
+  "unit": "ml",
+  "servingSize": 180,
+  "nutritionPer100": {
+   "energyKcal": 90,
+   "protein": 3,
+   "carbohydrate": 13,
+   "totalSugar": 12,
+   "addedSugar": 7,
+   "fat": 3,
+   "saturatedFat": 1.9,
+   "transFat": 0.1,
+   "sodiumMg": 50,
+   "fibre": 0
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Toned milk",
+   "Sugar",
+   "Saffron",
+   "Cardamom",
+   "Stabiliser (INS 407)"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "kissan-mixed-fruit-jam",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Kissan",
+  "name": "Mixed Fruit Jam",
+  "category": "Jams & spreads",
+  "useGroup": "sweet-spread",
+  "unit": "g",
+  "servingSize": 20,
+  "nutritionPer100": {
+   "energyKcal": 271,
+   "protein": 0.3,
+   "carbohydrate": 68,
+   "totalSugar": 65,
+   "addedSugar": 56,
+   "fat": 0.1,
+   "saturatedFat": 0,
+   "transFat": 0,
+   "sodiumMg": 30,
+   "fibre": 1
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Sugar",
+   "Mixed fruit pulp",
+   "Acidity regulator (INS 330)",
+   "Thickener (INS 440)",
+   "Colour",
+   "Preservative (INS 211)"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ },
+ {
+  "id": "nutella",
+  "gtin": null,
+  "fssaiLicence": null,
+  "brand": "Ferrero",
+  "name": "Nutella",
+  "category": "Jams & spreads",
+  "useGroup": "sweet-spread",
+  "unit": "g",
+  "servingSize": 15,
+  "nutritionPer100": {
+   "energyKcal": 539,
+   "protein": 6.3,
+   "carbohydrate": 57.5,
+   "totalSugar": 56.3,
+   "addedSugar": 50,
+   "fat": 30.9,
+   "saturatedFat": 10.6,
+   "transFat": 0.1,
+   "sodiumMg": 40,
+   "fibre": 3
+  },
+  "nova": 4,
+  "vegMark": "veg",
+  "allergens": {
+   "contains": [
+    "milk",
+    "treenut",
+    "soy"
+   ],
+   "mayContain": []
+  },
+  "ingredients": [
+   "Sugar",
+   "Palm oil",
+   "Hazelnuts",
+   "Skimmed milk powder",
+   "Fat-reduced cocoa",
+   "Emulsifier (soya lecithin)",
+   "Vanillin"
+  ],
+  "claims": [],
+  "labelSource": {
+   "kind": "seed-estimate",
+   "verified": false,
+   "note": "Typical values entered for the MVP seed. Check against the pack photo before publishing."
+  },
+  "reportIds": [],
+  "qcKey": null,
+  "qcLine": null,
+  "price": null,
+  "sourceLinks": [],
+  "version": 1,
+  "status": "draft",
+  "updatedAt": "2026-10-02"
+ }
+]

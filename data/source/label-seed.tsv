@@ -1,0 +1,158 @@
+id	reportIds	qcKey	brand	name	category	useGroup	unit	serving	kcal	protein	carbs	sugar	addedSugar	fat	satFat	transFat	sodium	fibre	nova	veg	contains	mayContain	ingredients	claims
+amul-gold-milk	R001	AMUL-GOLD	Amul	Gold Full Cream Milk	Milk	milk	ml	200	89	3.2	5.0	5.0	0	6.0	3.9	0.1	45	0	1	Y	milk		Milk (standardised, full cream)	Full cream; Pasteurised
+amul-taaza-toned-milk	R002	AMUL-TAAZA	Amul	Taaza Homogenised Toned Milk	Milk	milk	ml	200	58	3.1	4.7	4.7	0	3.0	1.9	0.1	45	0	1	Y	milk		Milk (toned)	Toned; Homogenised; Pasteurised
+amul-taaza-milky-milk	R003		Amul	Taaza Milky Milk	Milk	milk	ml	200												Y	milk			
+country-delight-cow-milk	R004	CD-COW	Country Delight	Cow Milk	Milk	milk	ml	200	66	3.2	4.8	4.8	0	3.8	2.4	0.1	45	0	1	Y	milk		Cow milk	Farm fresh; No preservatives
+mother-dairy-cow-milk	R005	MD-COW	Mother Dairy	Cow Milk	Milk	milk	ml	200	64	3.1	4.8	4.8	0	3.5	2.2	0.1	45	0	1	Y	milk		Cow milk	Pasteurised
+mother-dairy-double-toned-milk			Mother Dairy	Double Toned Milk	Milk	milk	ml	200	46	3.2	5.0	5.0	0	1.5	1.0	0.0	45	0	1	Y	milk		Milk (double toned)	Low fat
+mother-dairy-toned-milk			Mother Dairy	Toned Milk	Milk	milk	ml	200	58	3.1	4.8	4.8	0	3.0	1.9	0.1	45	0	1	Y	milk		Milk (toned)	Pasteurised
+amul-masti-dahi-pouch	R006	AMUL-DAHI-POUCH	Amul	Masti Dahi (pouch)	Curd & yoghurt	curd	g	100	63	3.1	4.6	4.6	0	3.1	1.9	0.1	45	0	1	Y	milk		Pasteurised toned milk; Active lactic culture	
+amul-masti-dahi-cup	R007	AMUL-DAHI-CUP	Amul	Masti Dahi (cup)	Curd & yoghurt	curd	g	100	63	3.1	4.6	4.6	0	3.1	1.9	0.1	45	0	1	Y	milk		Pasteurised toned milk; Active lactic culture	
+epigamia-turbo	R008		Epigamia	Turbo 50 g	Curd & yoghurt	curd	g	50												Y	milk			
+mother-dairy-classic-dahi			Mother Dairy	Classic Dahi	Curd & yoghurt	curd	g	100	60	3.1	4.5	4.5	0	3.0	1.9	0.1	45	0	1	Y	milk		Pasteurised toned milk; Culture	
+beyond-snack-banana-chips	R009		Beyond Snack	Kerala Banana Chips	Packaged snacks	salty-snack	g	30	540	2.5	55	3.0	0	34	30	0	300	4	3	Y			Raw banana; Coconut oil; Salt	Made in coconut oil
+farmley-makhana	R010		Farmley	Makhana	Packaged snacks	salty-snack	g	30	480	9	62	2.0	0	22	8	0	700	6	3	Y		milk	Fox nuts (makhana); Edible vegetable oil; Spices and condiments; Salt	Roasted not fried
+haldirams-salted-peanuts	R011	HALDIRAMS-PEANUT	Haldiram's	Salted Peanuts	Packaged snacks	salty-snack	g	30	580	24	15	4.0	0	48	8	0	600	7	3	Y	peanut		Peanuts; Edible vegetable oil (cottonseed oil); Salt	
+lays-magic-masala	R012		Lay's	India's Magic Masala Potato Chips	Packaged snacks	salty-snack	g	30	544	6.5	53	3.5	1.5	34	15	0.1	720	3	4	Y		milk,soy	Potato; Edible vegetable oil (palmolein, rice bran oil); Seasoning (spices and condiments, salt, sugar, onion powder, garlic powder, flavour enhancers INS 627 and INS 631)	
+ritebite-protein-chips	R013		RiteBite	Max Protein Chips – Cheese Jalapeno	Packaged snacks	salty-snack	g	40	420	25	50	3.0	1.0	12	5	0	900	5	4	Y	milk,soy	gluten	Soy protein isolate; Rice flour; Corn grits; Edible vegetable oil; Cheese powder; Seasoning (salt, jalapeno, spices and condiments)	10 g protein
+snackible-ragi-chips	R014		Snackible	Ragi Chips – Peri Peri	Packaged snacks	salty-snack	g	30	450	8	65	3.0	1.0	17	7	0	800	5	4	Y		gluten,milk	Ragi flour; Rice flour; Edible vegetable oil; Peri peri seasoning (spices and condiments, salt, sugar, garlic powder)	Baked not fried
+superyou-protein-chips	R015		SuperYou	Multigrain Protein Chips – Sour Cream & Onion	Packaged snacks	salty-snack	g	40	430	25	52	3.0	1.0	13	6	0	750	5	4	Y	milk,soy	gluten	Soy protein; Multigrain flour (rice, jowar, ragi); Edible vegetable oil; Seasoning (milk solids, onion powder, salt, sugar)	10 g protein
+taali-jowar-puffs	R016		Taali	Jowar Protein Puffs – Masala Mania	Packaged snacks	salty-snack	g	30	420	20	60	2.0	0.5	10	4	0	700	6	3	Y		soy	Jowar; Pea protein; Edible vegetable oil; Masala seasoning (spices and condiments, salt)	High protein
+too-yumm-chilli-wafers	R017		Too Yumm	Spicy Chilli Wafers (potato chips)	Packaged snacks	salty-snack	g	30	500	6	58	3.0	1.5	27	12	0	750	3	4	Y		milk,soy	Potato; Edible vegetable oil (palmolein); Seasoning (salt, chilli, sugar, spices and condiments, onion powder, garlic powder)	
+haldirams-aloo-bhujia			Haldiram's	Aloo Bhujia	Packaged snacks	salty-snack	g	30	570	10	40	1.0	0	41	18	0	1000	4	4	Y			Gram flour (besan); Edible vegetable oil (palmolein); Potato; Moth bean flour; Salt; Spices and condiments	
+haldirams-moong-dal			Haldiram's	Moong Dal	Packaged snacks	salty-snack	g	30	520	23	45	2.0	0	27	10	0	600	6	3	Y			Moong dal; Edible vegetable oil (cottonseed oil); Salt	
+haldirams-navratan-mix			Haldiram's	Navratan Mix	Packaged snacks	salty-snack	g	30	540	12	45	4.0	2.0	35	15	0	850	5	4	Y	peanut,treenut		Gram flour; Edible vegetable oil; Peanuts; Lentils; Cashews; Raisins; Salt; Sugar; Spices and condiments	
+kurkure-masala-munch			Kurkure	Masala Munch	Packaged snacks	salty-snack	g	30	555	6	57	2.5	1.5	34	15	0	900	2	4	Y		milk,soy	Rice meal; Edible vegetable oil (palmolein); Corn meal; Gram meal; Seasoning (spices and condiments, salt, sugar, onion powder, flavour enhancer INS 627 and INS 631)	
+lays-classic-salted			Lay's	Classic Salted	Packaged snacks	salty-snack	g	30	550	6.5	52	0.6	0	35	15	0	520	3	3	Y			Potato; Edible vegetable oil (palmolein, rice bran oil); Salt	
+minus-30-vegan-sugar-free	R018		Minus 30	Mini Vegan & Sugar Free	Ice cream	ice-cream	g	60												Y				
+noto-dark-chocolate	R019		Noto	Ice cream Dark Chocolate	Ice cream	ice-cream	g	60												Y	milk			
+amul-vanilla-royale			Amul	Vanilla Royale Ice Cream	Ice cream	ice-cream	g	60	205	3.5	24	20	15	10.5	7	0.2	60	0	4	Y	milk		Milk solids; Sugar; Milk fat; Stabilisers (INS 412, INS 410); Emulsifier (INS 471); Vanilla flavour	Real milk ice cream
+amul-butter	R020	AMUL-BUTTER	Amul	Butter (salted)	Butter, paneer & cheese	butter	g	10	720	0.5	0	0	0	80	51	2.5	700	0	2	Y	milk		Butter; Common salt	Pasteurised
+amul-cheese-cubes	R021		Amul	Cheese Cubes	Butter, paneer & cheese	cheese	g	20	315	20	2	0	0	25	16	0.8	1100	0	4	Y	milk		Cheese; Emulsifying salts (INS 331, INS 339); Common salt	
+amul-paneer	R022	AMUL-PANEER	Amul	Malai Paneer	Butter, paneer & cheese	paneer	g	50	296	18	3	1.5	0	23	15	0.6	30	0	1	Y	milk		Milk solids; Citric acid	Fresh
+aashirvaad-organic-cow-ghee	R023	AASHIRVAAD-GHEE	Aashirvaad	Organic Cow Ghee	Ghee	cooking-fat	g	5	897	0	0	0	0	99.7	62	2.0	0	0	2	Y	milk		Organic cow milk fat	Organic
+aashirvaad-svasti-cow-ghee	R024	AASHIRVAAD-GHEE	Aashirvaad	Svasti Pure Cow Ghee	Ghee	cooking-fat	g	5	897	0	0	0	0	99.7	62	2.0	0	0	2	Y	milk		Cow milk fat	Pure
+amul-cow-ghee	R025	AMUL-GHEE	Amul	Cow Ghee	Ghee	cooking-fat	g	5	897	0	0	0	0	99.7	62	2.0	0	0	2	Y	milk		Cow milk fat	Pure
+amul-high-aroma-cow-ghee	R026	AMUL-GHEE	Amul	High Aroma Cow Ghee	Ghee	cooking-fat	g	5	897	0	0	0	0	99.7	62	2.0	0	0	2	Y	milk		Cow milk fat	
+country-delight-desi-cow-ghee	R027		Country Delight	Desi Cow Ghee	Ghee	cooking-fat	g	5	897	0	0	0	0	99.7	62	2.0	0	0	2	Y	milk		Cow milk fat	
+country-delight-danedar-ghee	R028		Country Delight	Desi Danedar Ghee	Ghee	cooking-fat	g	5	897	0	0	0	0	99.7	62	2.0	0	0	2	Y	milk		Cow milk fat	Danedar
+organic-india-cow-ghee	R029,R030		Organic India	Cow Ghee	Ghee	cooking-fat	g	5	897	0	0	0	0	99.7	62	2.0	0	0	2	Y	milk		Organic cow milk fat	Organic
+patanjali-cow-ghee	R031		Patanjali	Cow's Ghee	Ghee	cooking-fat	g	5	897	0	0	0	0	99.7	62	2.0	0	0	2	Y	milk		Cow milk fat	
+vedic-a2-gir-ghee	R032		Vedic	A2 Gir Cow Ghee	Ghee	cooking-fat	g	5	897	0	0	0	0	99.7	62	2.0	0	0	2	Y	milk		Gir cow milk fat	A2; Bilona
+aashirvaad-superior-mp-atta	R033	AASHIRVAAD-ATTA	Aashirvaad	Superior MP Atta	Atta, rice & salt	atta	g	40	364	12.1	72	1.0	0	1.7	0.3	0	2	11.2	1	Y	gluten		Whole wheat	0% maida; 100% atta
+fortune-chakki-fresh-atta			Fortune	Chakki Fresh Atta	Atta, rice & salt	atta	g	40	347	11.5	72	1.0	0	1.8	0.3	0	3	11	1	Y	gluten		Whole wheat	100% atta
+aashirvaad-multigrain-atta			Aashirvaad	Multigrains Atta	Atta, rice & salt	atta	g	40	352	13	68	1.0	0	2.3	0.4	0	5	12.5	1	Y	gluten,soy		Whole wheat; Soya; Channa; Oat; Maize; Psyllium husk	High fibre
+daawat-brown-rice	R034		Daawat	Brown Rice	Atta, rice & salt	rice	g	60	356	7.5	77	0.5	0	2.5	0.5	0	5	3.5	1	Y			Brown basmati rice	Whole grain
+india-gate-feast-rozzana	R035	INDIAGATE-FEAST	India Gate	Feast Rozzana Basmati Rice	Atta, rice & salt	rice	g	60	349	7.5	78	0.2	0	0.5	0.1	0	4	1.3	1	Y			Basmati rice	
+tata-salt	R036	TATA-SALT	Tata	Tata Salt	Atta, rice & salt	salt	g	1	0	0	0	0	0	0	0	0	38700	0	2	Y			Iodised salt; Anticaking agent (INS 536)	Vacuum evaporated; Iodised
+tata-salt-lite			Tata	Tata Salt Lite	Atta, rice & salt	salt	g	1	0	0	0	0	0	0	0	0	32900	0	2	Y			Iodised salt; Potassium chloride; Anticaking agent (INS 536)	15% lower sodium
+fortune-kachi-ghani-mustard-oil	R037	FORTUNE-MUSTARD	Fortune	Kachi Ghani Pure Mustard Oil	Cooking oil	cooking-fat	g	10	900	0	0	0	0	100	8	0	0	0	2	Y	mustard		Mustard oil (kachi ghani)	Cold pressed
+jivo-extra-light-olive-oil	R038		Jivo	Extra Light Olive Oil	Cooking oil	cooking-fat	g	10	900	0	0	0	0	100	14	0	0	0	2	Y			Refined olive oil; Olive pomace oil	
+jivo-extra-virgin-olive-oil	R039		Jivo	Extra Virgin Olive Oil	Cooking oil	cooking-fat	g	10	900	0	0	0	0	100	14	0	0	0	2	Y			Extra virgin olive oil	Cold pressed
+fortune-sunlite-sunflower-oil			Fortune	Sunlite Refined Sunflower Oil	Cooking oil	cooking-fat	g	10	900	0	0	0	0	100	10	0	0	0	2	Y			Refined sunflower oil	
+saffola-gold-oil			Saffola	Gold Blended Oil	Cooking oil	cooking-fat	g	10	900	0	0	0	0	100	17	0	0	0	2	Y			Refined rice bran oil; Refined sunflower oil	Blended oil
+dalda-vanaspati			Dalda	Vanaspati	Cooking oil	cooking-fat	g	10	900	0	0	0	0	100	45	2.0	0	0	4	Y			Partially hydrogenated vegetable oils; Vitamin A; Vitamin D	
+fortune-soya-chunks	R040	FORTUNE-SOYA	Fortune	Soya Chunks	Soya & protein flour	soya	g	30	345	52	33	7.0	0	0.5	0.1	0	10	13	2	Y	soy		Defatted soya flour	High protein
+milld-high-protein-flour	R041		Mill'd	High Protein Flour	Soya & protein flour	atta	g	40												Y	gluten			
+nutrela-soya-chunks	R042		Nutrela	Soya Chunks	Soya & protein flour	soya	g	30	345	52	33	7.0	0	0.5	0.1	0	10	13	2	Y	soy		Defatted soya flour	High protein
+britannia-whole-wheat-bread	R043	BRITANNIA-WW	Britannia	100% Whole Wheat Bread	Bread	bread	g	50	247	9.5	45	4.5	3.5	3.0	0.8	0	450	6	4	Y	gluten	milk,soy,sesame	Whole wheat flour (atta); Water; Sugar; Yeast; Wheat gluten; Edible vegetable oil; Iodised salt; Preservative (INS 282); Emulsifier (INS 471)	No maida
+britannia-white-bread			Britannia	White Bread	Bread	bread	g	50	260	8	51	4.6	4.0	2.4	1.0	0	500	2	4	Y	gluten	milk,soy,sesame	Refined wheat flour (maida); Water; Sugar; Yeast; Edible vegetable oil; Iodised salt; Preservative (INS 282); Emulsifier (INS 471)	
+dmart-haldi-powder	R044		DMart	Haldi Powder	Spices & masala	spice	g	2	330	8	60	3.0	0	8	2	0	30	20	1	Y			Turmeric	
+dmart-red-chilli-powder	R045		DMart	Red Chilli Powder	Spices & masala	spice	g	2	310	12	50	7.0	0	14	2.5	0	30	28	1	Y			Red chilli	
+everest-garam-masala	R046		Everest	Garam Masala	Spices & masala	spice	g	2	380	12	45	2.5	0	15	2	0	100	25	1	Y			Coriander; Cumin; Black pepper; Cardamom; Cinnamon; Clove; Other spices	
+everest-kashmirilal-mirch	R047	EVEREST-KMIRCH	Everest	Kashmirilal Mirch	Spices & masala	spice	g	2	310	12	50	7.0	0	14	2.5	0	30	28	1	Y			Red chilli	
+everest-kitchen-king	R048		Everest	Kitchen King Masala	Spices & masala	spice	g	2	360	12	48	3.0	0	12	2	0	100	22	1	Y			Coriander; Chilli; Cumin; Turmeric; Fenugreek leaves; Other spices	
+everest-meat-masala	R049		Everest	Meat Masala	Spices & masala	spice	g	2	360	12	48	3.0	0	12	2	0	100	22	1	Y			Coriander; Chilli; Cumin; Black pepper; Clove; Cinnamon; Other spices	
+maggi-masala-ae-magic	R050	MAGGI-MAGIC	Maggi	Masala-ae-Magic	Spices & masala	spice	g	6	250	8	45	10	9	5	1.5	0	13000	8	4	Y		gluten,milk,soy	Spices and condiments; Iodised salt; Sugar; Onion powder; Garlic powder; Flavour enhancer (INS 627, INS 631); Iron	Iron fortified
+mdh-biryani-masala	R051		MDH	Biryani Masala	Spices & masala	spice	g	2	360	12	48	3.0	0	12	2	0	100	22	1	Y			Coriander; Cumin; Cardamom; Cinnamon; Clove; Other spices	
+mdh-chunky-chat-masala	R052		MDH	Chunky Chat Masala	Spices & masala	spice	g	2	250	8	45	4.0	0	5	1	0	15000	12	2	Y			Black salt; Dried mango; Cumin; Iodised salt; Black pepper; Other spices	
+mdh-deggi-mirch	R053	MDH-DEGGI	MDH	Deggi Mirch	Spices & masala	spice	g	2	310	12	50	7.0	0	14	2.5	0	30	28	1	Y			Red chilli	
+mdh-garam-masala	R054		MDH	Garam Masala	Spices & masala	spice	g	2	380	12	45	2.5	0	15	2	0	100	25	1	Y			Coriander; Cumin; Black pepper; Cardamom; Cinnamon; Clove; Other spices	
+mdh-kitchen-king	R055		MDH	Kitchen King	Spices & masala	spice	g	2	360	12	48	3.0	0	12	2	0	100	22	1	Y			Coriander; Chilli; Cumin; Turmeric; Fenugreek leaves; Other spices	
+bevzilla-classic-coffee	R056		Bevzilla	Premium Classic Coffee	Tea & coffee	coffee	g	2	350	15	65	2.0	0	0.5	0.2	0	80	30	2	Y			Instant coffee	
+bevzilla-premium-coffee	R057		Bevzilla	Premium Coffee	Tea & coffee	coffee	g	2	350	15	65	2.0	0	0.5	0.2	0	80	30	2	Y			Instant coffee	
+brooke-bond-taaza	R058	BB-TAAZA	Brooke Bond	Taaza Tea	Tea & coffee	tea	g	2	0	0	0	0	0	0	0	0	0	0	1	Y			Black tea	
+nescafe-classic	R059	NESCAFE-CLASSIC	Nescafé	Classic	Tea & coffee	coffee	g	2	350	15	65	2.0	0	0.5	0.2	0	80	30	2	Y			Instant coffee	100% pure coffee
+vs-mani-instant-coffee	R060		VS Mani & Co	Signature Instant Coffee	Tea & coffee	coffee	g	2	350	15	65	2.0	0	0.5	0.2	0	80	30	2	Y			Instant coffee	
+tata-tea-premium			Tata Tea	Premium	Tea & coffee	tea	g	2	0	0	0	0	0	0	0	0	0	0	1	Y			Black tea	
+bru-instant-coffee			Bru	Instant Coffee	Tea & coffee	coffee	g	2	350	12	70	3.0	0	0.5	0.2	0	80	25	2	Y			Coffee; Chicory	Coffee-chicory blend
+alpino-protein-oats	R061		Alpino	Protein Oats	Breakfast cereal & oats	breakfast-cereal	g	40												Y	peanut	gluten		
+bagrrys-jumbo-oats	R062		Bagrry's	Jumbo Rolled Oats	Breakfast cereal & oats	breakfast-cereal	g	40	380	12.5	66	1.0	0	7.5	1.4	0	5	10	1	Y		gluten	Rolled oats	Whole grain
+kelloggs-chocos	R063		Kellogg's	Chocos Whole Grain	Breakfast cereal & oats	breakfast-cereal	g	30	387	8	80	25	24	3.5	1.3	0	270	6	4	Y	gluten	milk,soy	Whole wheat flour; Sugar; Rice flour; Cocoa solids; Malt extract; Iodised salt; Vitamins and minerals	Whole grain
+kelloggs-corn-flakes	R064,R065	KELLOGGS-CF	Kellogg's	Corn Flakes – Original	Breakfast cereal & oats	breakfast-cereal	g	30	380	7	84	8	7	0.9	0.2	0	660	3	4	Y	gluten		Corn grits; Sugar; Malt extract (barley); Iodised salt; Vitamins and minerals	Iron and vitamins
+kelloggs-muesli-no-added-sugar	R066		Kellogg's	Muesli 0% Added Sugar	Breakfast cereal & oats	breakfast-cereal	g	40	370	10	67	15	0	5.5	1	0	160	9	3	Y	gluten,treenut	soy,peanut	Rolled oats; Wheat flakes; Raisins; Almonds; Dried cranberries; Corn flakes	0% added sugar
+quaker-rolled-oats	R067		Quaker	Rolled Oats – Natural Wholegrain	Breakfast cereal & oats	breakfast-cereal	g	40	380	12.5	66	1.0	0	7.5	1.4	0	5	10	1	Y		gluten	Rolled oats	100% wholegrain
+saffola-oats	R068	SAFFOLA-OATS	Saffola	Oats	Breakfast cereal & oats	breakfast-cereal	g	40	385	13	66	1.0	0	7.5	1.4	0	5	10	1	Y		gluten	Rolled oats	100% natural
+twt-5-grain-muesli	R069		The Whole Truth	Breakfast Muesli – 5 Grain Muesli	Breakfast cereal & oats	breakfast-cereal	g	40	400	11	62	13	0	11	2.5	0	25	10	2	Y	treenut	gluten,peanut	Oats; Ragi; Jowar; Bajra; Dates; Almonds; Seeds	No added sugar
+saffola-masala-oats			Saffola	Masala Oats (Classic Masala)	Breakfast cereal & oats	breakfast-cereal	g	39	380	11	64	4.0	2.0	8.5	2	0	1300	8	4	Y	gluten	milk,soy	Rolled oats; Masala seasoning (salt, onion, garlic, spices and condiments, sugar, flavour enhancer INS 627 and INS 631); Dehydrated vegetables	
+kissan-tomato-ketchup	R070	KISSAN-KETCHUP	Kissan	Fresh Tomato Ketchup	Ketchup & sauces	ketchup	g	15	120	1.2	29	23	19	0.1	0	0	900	1	4	Y			Tomato paste; Sugar; Water; Iodised salt; Acidity regulator (INS 260); Preservative (INS 211); Onion; Garlic; Spices	
+maggi-rich-tomato-ketchup			Maggi	Rich Tomato Ketchup	Ketchup & sauces	ketchup	g	15	128	1.4	30	25	21	0.2	0	0	950	1	4	Y			Tomato paste; Sugar; Water; Iodised salt; Acidity regulator (INS 260); Preservative (INS 211); Onion; Garlic; Spices	
+britannia-nutrichoice-digestive	R071		Britannia	NutriChoice Digestive	Biscuits & cookies	biscuit	g	30	480	8	64	15	13	21	10	0.1	450	7	4	Y	gluten,milk	soy,sesame	Whole wheat flour (atta); Edible vegetable oil (palm oil); Sugar; Refined wheat flour (maida); Wheat bran; Raising agents; Salt; Emulsifier (INS 322)	High fibre
+kikibix-choco-chip	R072		Kikibix	Choco Chip Cookies	Biscuits & cookies	biscuit	g	30												Y	gluten,milk			
+mcvities-digestive	R073		McVitie's	Digestive	Biscuits & cookies	biscuit	g	30	485	7	65	16	14	21	9.5	0.1	500	4	4	Y	gluten	milk,soy	Refined wheat flour (maida); Whole wheat flour (atta); Edible vegetable oil (palm oil); Sugar; Raising agents; Salt	
+open-secret-nutty-cookies	R074		Open Secret	Nutty Cookies – Choco Almond	Biscuits & cookies	biscuit	g	30	500	9	55	20	18	28	9	0	150	6	4	Y	treenut,milk	gluten,peanut,soy	Almonds; Oats; Jaggery; Cocoa; Butter; Cashews	No maida; No palm oil
+parle-g	R075		Parle	Parle-G	Biscuits & cookies	biscuit	g	25	454	6.9	77	25	24	13.5	6.3	0.1	300	1.5	4	Y	gluten,milk		Refined wheat flour (maida); Sugar; Edible vegetable oil (palm oil); Invert sugar syrup; Milk solids; Raising agents; Iodised salt; Emulsifier (INS 322)	
+sunfeast-farmlite-oats-almonds	R076		Sunfeast Farmlite	Oats & Almonds Cookies	Biscuits & cookies	biscuit	g	30	470	8	64	17	15	20	9	0.1	350	6	4	Y	gluten,treenut,milk	soy	Refined wheat flour (maida); Oats; Sugar; Edible vegetable oil (palm oil); Almonds; Raising agents; Salt	With oats and almonds
+britannia-marie-gold			Britannia	Marie Gold	Biscuits & cookies	biscuit	g	25	445	8	76	21	20	12	6	0.1	400	2	4	Y	gluten,milk	soy	Refined wheat flour (maida); Sugar; Edible vegetable oil (palm oil); Invert sugar syrup; Milk solids; Raising agents; Iodised salt	
+britannia-good-day-cashew			Britannia	Good Day Cashew	Biscuits & cookies	biscuit	g	25	500	7	66	26	25	23	11	0.1	350	1.5	4	Y	gluten,milk,treenut	soy	Refined wheat flour (maida); Sugar; Edible vegetable oil (palm oil); Cashews; Butter; Invert sugar syrup; Raising agents; Salt	
+parle-monaco			Parle	Monaco	Biscuits & cookies	biscuit	g	25	500	8	64	7	6	24	11	0.1	900	2	4	Y	gluten	milk	Refined wheat flour (maida); Edible vegetable oil (palm oil); Sugar; Iodised salt; Raising agents; Yeast	
+parle-hide-and-seek			Parle	Hide & Seek	Biscuits & cookies	biscuit	g	25	490	6	66	28	27	22	11	0.1	270	2	4	Y	gluten,milk	soy	Refined wheat flour (maida); Sugar; Edible vegetable oil (palm oil); Chocolate chips; Cocoa solids; Invert sugar syrup; Raising agents; Salt	
+mojo-bar-yoghurt-berry	R077		Mojo Bar	Energy Bar – Yoghurt Berry & Anti-Oxidants	Energy & granola bars	energy-bar	g	30												Y		gluten,milk		
+nature-valley-granola-bar	R078		Nature Valley	Crunchy Granola Bar	Energy & granola bars	energy-bar	g	42	471	8	64	28	27	19	2	0	290	5	4	Y	gluten	soy,peanut,treenut	Whole grain oats; Sugar; Canola oil; Rice flour; Honey; Salt; Brown sugar syrup	Whole grain oats
+unibic-fruit-nut-bar	R079		Unibic	Snack Bar – Fruit & Nut	Energy & granola bars	energy-bar	g	30	420	6	64	30	25	14	5	0	100	5	4	Y	treenut	gluten,milk,soy	Oats; Liquid glucose; Raisins; Almonds; Sugar; Edible vegetable oil	
+wingreens-granola-bar	R080		Wingreens	Harvest Granola Bar – Dark Chocolate & Espresso	Energy & granola bars	energy-bar	g	30												Y	treenut	gluten,milk		
+yogabar-energy-bar	R081		Yogabar	Energy Bar – Chocolate Chunk	Energy & granola bars	energy-bar	g	38	400	10	60	20	15	13	4	0	70	9	4	Y	treenut,milk	peanut,soy	Oats; Dates; Brown rice syrup; Almonds; Dark chocolate; Seeds	
+amul-bitter-75	R082		Amul	Bitter Chocolate 75%	Chocolate & cocoa	chocolate	g	25	570	8	35	22	21	44	27	0.1	20	10	4	Y		milk,soy	Cocoa solids; Sugar; Cocoa butter; Emulsifier (INS 322)	75% cocoa
+amul-intense-90	R083		Amul	Bitter Intense Dark 90%	Chocolate & cocoa	chocolate	g	25	600	10	23	9	8	50	31	0.1	20	14	4	Y		milk,soy	Cocoa solids; Cocoa butter; Sugar; Emulsifier (INS 322)	90% cocoa
+amul-dark-55	R084		Amul	Dark Chocolate 55%	Chocolate & cocoa	chocolate	g	25	540	6	52	38	37	34	21	0.1	20	7	4	Y		milk,soy	Sugar; Cocoa solids; Cocoa butter; Emulsifier (INS 322)	
+cadbury-bournville-50	R086,R085	CADBURY-B50	Cadbury	Bournville Classic 50% Dark	Chocolate & cocoa	chocolate	g	25	520	6	55	44	43	30	18	0.1	30	6	4	Y	milk,soy	gluten,treenut	Sugar; Cocoa solids; Cocoa butter; Milk solids; Emulsifiers (INS 442, INS 476)	50% cocoa
+cadbury-bournville-70	R087	CADBURY-B70	Cadbury	Bournville Intense 70% Dark	Chocolate & cocoa	chocolate	g	25	580	8	40	28	27	42	26	0.1	20	10	4	Y	soy	milk,gluten,treenut	Cocoa solids; Sugar; Cocoa butter; Emulsifier (INS 322)	70% cocoa
+get-a-way-belgian	R088		Get-A-Way	Belgian Chocolate	Chocolate & cocoa	chocolate	g	25												Y	milk			
+go-zero-chocobar	R089		Go Zero	Madagascar Chocobar	Chocolate & cocoa	ice-cream	g	60												Y	milk			
+hersheys-cocoa-powder	R090		Hershey's	Unsweetened 100% Cocoa Powder	Chocolate & cocoa	chocolate	g	5	370	20	50	1	0	12	7	0	20	33	1	Y			Cocoa powder	100% cocoa; Unsweetened
+lindt-70	R091		Lindt	70% Cocoa	Chocolate & cocoa	chocolate	g	25	566	9.5	34	29	28	41	25	0.1	10	11	4	Y	soy	milk,treenut	Cocoa mass; Sugar; Cocoa butter; Emulsifier (soya lecithin); Vanilla	70% cocoa
+lindt-85	R092		Lindt	85% Cocoa	Chocolate & cocoa	chocolate	g	25	584	12.5	19	11	11	46	28	0.1	10	15	4	Y		milk,treenut,soy	Cocoa mass; Cocoa butter; Fat-reduced cocoa; Demerara sugar	85% cocoa
+paul-and-mike-99	R093		Paul & Mike	99% Dark Chocolate	Chocolate & cocoa	chocolate	g	25	600	13	15	1	0	52	32	0	10	20	2	Y		milk,treenut	Cocoa mass; Cocoa butter	99% cocoa; Single origin
+twt-dark-chocolate-orange	R094		The Whole Truth	Dark Chocolate – Orange	Chocolate & cocoa	chocolate	g	25												Y		milk,treenut		
+cadbury-dairy-milk			Cadbury	Dairy Milk	Chocolate & cocoa	chocolate	g	25	534	7.3	58	56	52	30	18	0.2	90	1	4	Y	milk,soy	gluten,treenut	Sugar; Milk solids; Cocoa butter; Cocoa solids; Emulsifiers (INS 442, INS 476); Flavours	
+licious-chicken-curry-cut	R095		Licious	Chicken Cut	Meat	meat	g	100	140	19	0	0	0	7	2	0.1	70	0	1	N			Chicken	Antibiotic residue free
+alpino-natural-pb	R096	ALPINO-PB	Alpino	Natural Peanut Butter	Peanut butter	nut-butter	g	32	627	30	17	5	0	49	8.6	0	15	9	1	Y	peanut		Roasted peanuts	Unsweetened; 100% peanuts
+alpino-natural-pb-crunch	R097	ALPINO-PB	Alpino	Natural Peanut Butter – Crunch	Peanut butter	nut-butter	g	32	627	30	17	5	0	49	8.6	0	15	9	1	Y	peanut		Roasted peanuts	Unsweetened; 100% peanuts
+atom-protein-pb	R098		AS-IT-IS Nutrition	ATOM High Protein Peanut Butter – Crunchy Dark Chocolate	Peanut butter	nut-butter	g	32												Y	peanut,milk			
+disano-pb	R099		DiSano	Peanut Butter	Peanut butter	nut-butter	g	32	590	25	22	9	6	46	9	0	300	7	3	Y	peanut		Roasted peanuts; Sugar; Edible vegetable oil; Iodised salt	
+disano-pb-crunchy	R100		DiSano	Peanut Butter – Crunchy	Peanut butter	nut-butter	g	32	590	25	22	9	6	46	9	0	300	7	3	Y	peanut		Roasted peanuts; Sugar; Edible vegetable oil; Iodised salt	
+funfoods-pb	R101		Dr. Oetker FunFoods	Peanut Butter	Peanut butter	nut-butter	g	32	600	23	25	12	9	46	9	0	330	6	3	Y	peanut		Roasted peanuts; Sugar; Edible vegetable oil; Iodised salt; Stabiliser	
+happilo-pb-crunchy	R102		Happilo	Peanut Butter – Crunchy	Peanut butter	nut-butter	g	32	600	25	21	8	6	48	9	0	300	7	3	Y	peanut	treenut	Roasted peanuts; Sugar; Edible vegetable oil; Iodised salt	
+muscleblaze-protein-pb	R103		MuscleBlaze	Protein Peanut Butter – Creamy Dark Chocolate	Peanut butter	nut-butter	g	32	580	30	25	6	4	40	8	0	200	6	4	Y	peanut,milk	soy	Roasted peanuts; Whey protein; Cocoa; Jaggery; Edible vegetable oil; Salt	High protein
+myfitness-pb-chocolate	R104		MYFITNESS	Peanut Butter – Smooth Chocolate	Peanut butter	nut-butter	g	32	600	26	24	10	8	46	9	0	250	6	4	Y	peanut	milk,soy	Roasted peanuts; Cocoa; Sugar; Edible vegetable oil; Salt	
+pintola-all-natural-crunchy	R105	PINTOLA-PB	Pintola	All Natural Peanut Butter – Crunchy	Peanut butter	nut-butter	g	32	620	30	18	5	0	50	9	0	10	8	1	Y	peanut		Roasted peanuts	Unsweetened; No added oil
+pintola-pb	R106	PINTOLA-PB	Pintola	Peanut Butter	Peanut butter	nut-butter	g	32	600	27	20	8	5	49	9	0	300	7	3	Y	peanut		Roasted peanuts; Sugar; Edible vegetable oil; Iodised salt	
+sundrop-pb-creamy	R107,R108	SUNDROP-PB	Sundrop	Peanut Butter – Creamy	Peanut butter	nut-butter	g	32	607	24	22	10	7	47	9.5	0	400	6	3	Y	peanut		Roasted peanuts; Sugar; Edible vegetable oil; Iodised salt; Stabiliser	
+butternut-natural-creamy	R109		The Butternut Co	Natural Peanut Butter Creamy	Peanut butter	nut-butter	g	32	620	29	18	5	0	50	9	0	10	8	1	Y	peanut		Roasted peanuts	Unsweetened
+butternut-pb-crunchy	R110		The Butternut Co	Peanut Butter – Crunchy	Peanut butter	nut-butter	g	32	620	29	18	5	0	50	9	0	10	8	1	Y	peanut		Roasted peanuts	
+twt-pb-crunchy-dark-chocolate	R111	TWT-PB-CRUNCHY-DC	The Whole Truth	Peanut Butter – Crunchy Dark Chocolate	Peanut butter	nut-butter	g	32	590	24	28	13	0	45	10	0	150	8	3	Y	peanut	treenut,milk	Roasted peanuts; Dates; Cocoa; Cocoa butter; Rock salt	No added sugar
+yogabar-pb-dark-chocolate	R112		Yogabar	Peanut Butter – Creamy Dark Chocolate	Peanut butter	nut-butter	g	32	600	25	23	11	8	46	10	0	200	6	4	Y	peanut	milk,soy,treenut	Roasted peanuts; Dark chocolate; Sugar; Edible vegetable oil; Salt	
+apis-himalaya-honey	R113		Apis	Himalaya Honey	Honey	honey	g	15	320	0.3	80	78	78	0	0	0	5	0	1	Y			Honey	
+patanjali-honey	R114	PATANJALI-HONEY	Patanjali	Honey	Honey	honey	g	15	320	0.3	80	78	78	0	0	0	5	0	1	Y			Honey	No added sugar
+saffola-honey-sundarbans	R115	SAFFOLA-HONEY	Saffola	Honey Sundarbans	Honey	honey	g	15	320	0.3	80	78	78	0	0	0	5	0	1	Y			Forest honey	
+saffola-organic-honey	R116	SAFFOLA-HONEY	Saffola	Organic Honey	Honey	honey	g	15	320	0.3	80	78	78	0	0	0	5	0	1	Y			Organic honey	Organic
+vedaka-honey	R117		Vedaka	Honey	Honey	honey	g	15	320	0.3	80	78	78	0	0	0	5	0	1	Y			Honey	
+zandu-pure-honey	R118		Zandu	Pure Honey	Honey	honey	g	15	320	0.3	80	78	78	0	0	0	5	0	1	Y			Honey	
+twt-high-protein-bar	R125	TWT-BAR	The Whole Truth	High Protein Bar	Protein bar	protein-bar	g	52	430	23	40	20	0	20	4	0	150	8	3	Y	peanut,milk	treenut,soy	Dates; Whey protein; Peanuts; Cocoa; Almonds	No added sugar; No preservatives
+yogabar-20g-protein-bar	R128	YOGABAR-BARS	Yogabar	20 g Protein Bar – Chocolate Brownie	Protein bar	protein-bar	g	60	380	33	40	6	2	12	5	0	300	10	4	Y	milk,soy,treenut	peanut,gluten	Protein blend (whey, soy); Fibre; Almonds; Dark chocolate; Sweetener (INS 955)	20 g protein
+mb-biozyme-iso-zero	R150	MB-ISOZERO	MuscleBlaze	Biozyme Iso Zero	Whey protein	protein-powder	g	35	380	80	6	2	0	2	1	0	300	0	4	Y	milk	soy	Whey protein isolate; Cocoa; Enzyme blend; Sweetener (INS 955); Flavour	Zero sugar
+mb-biozyme-performance	R151	MB-PERF	MuscleBlaze	Biozyme Performance Whey	Whey protein	protein-powder	g	40	380	62	18	6	2	6	3	0	300	0	4	Y	milk	soy	Whey protein concentrate; Whey protein isolate; Cocoa; Enzyme blend; Sugar; Sweetener (INS 955); Flavour	
+twt-raw-whey-isolate	R168	TWT-WHEY-ISO	The Whole Truth	Raw Whey Protein Isolate	Whey protein	protein-powder	g	30	370	90	2	1	0	0.5	0.3	0	200	0	2	Y	milk		Whey protein isolate	Unflavoured; Single ingredient
+twt-whey-light-cocoa	R172	TWT-WHEY-COCOA	The Whole Truth	Whey Protein – Light Cocoa 24 g	Whey protein	protein-powder	g	34	380	71	10	5	0	6	3.5	0	250	3	3	Y	milk		Whey protein concentrate; Cocoa; Dates powder	24 g protein; No artificial sweetener
+maggi-masala-noodles			Maggi	2-Minute Masala Noodles	Noodles & instant food	noodles	g	70	395	8.5	59	2.5	1.5	14	6.8	0.1	1200	3	4	Y	gluten	milk,soy,mustard	Refined wheat flour (maida); Palm oil; Iodised salt; Wheat gluten; Masala tastemaker (spices and condiments, onion powder, garlic powder, sugar, flavour enhancer INS 635)	
+maggi-atta-noodles			Maggi	Nutri-licious Atta Noodles	Noodles & instant food	noodles	g	72	380	10	58	2.5	1.5	12	5.5	0.1	1000	7	4	Y	gluten	milk,soy,mustard	Whole wheat flour (atta); Palm oil; Iodised salt; Wheat gluten; Masala tastemaker (spices and condiments, onion powder, garlic powder, sugar)	Made with atta; High fibre
+yippee-magic-masala			Sunfeast	YiPPee! Magic Masala Noodles	Noodles & instant food	noodles	g	70	430	8	60	2.0	1.0	17	8	0.1	1150	3	4	Y	gluten	milk,soy	Refined wheat flour (maida); Palm oil; Iodised salt; Masala (spices and condiments, onion, garlic, sugar, flavour enhancer INS 627 and INS 631)	
+coca-cola			Coca-Cola	Coca-Cola	Drinks	soft-drink	ml	300	44	0	10.6	10.6	10.6	0	0	0	10	0	4	Y			Carbonated water; Sugar; Acidity regulator (INS 338); Caffeine; Colour (INS 150d); Natural flavours	
+coke-zero			Coca-Cola	Coke Zero	Drinks	soft-drink	ml	300	0.3	0	0	0	0	0	0	0	10	0	4	Y			Carbonated water; Acidity regulators (INS 338, INS 331); Sweeteners (INS 951, INS 950); Caffeine; Colour (INS 150d); Natural flavours	No sugar
+thums-up			Thums Up	Thums Up	Drinks	soft-drink	ml	300	41	0	10.4	10.4	10.4	0	0	0	10	0	4	Y			Carbonated water; Sugar; Acidity regulator (INS 338); Caffeine; Colour (INS 150d); Flavours	
+real-mixed-fruit			Real	Fruit Power Mixed Fruit	Drinks	juice	ml	200	55	0.2	13.5	13	9	0	0	0	10	0.2	4	Y			Water; Mixed fruit pulp and concentrates; Sugar; Acidity regulator (INS 330); Vitamin C	
+tropicana-orange-100			Tropicana	100% Orange Juice	Drinks	juice	ml	200	46	0.6	10.5	10	0	0	0	0	5	0.2	3	Y			Orange juice from concentrate	No added sugar
+amul-masti-buttermilk			Amul	Masti Spiced Buttermilk	Drinks	dairy-drink	ml	200	15	0.9	1.2	1.2	0	0.7	0.5	0	150	0	2	Y	milk		Toned milk; Water; Salt; Green chilli; Ginger; Curry leaves; Coriander leaves; Asafoetida	
+amul-kool-kesar			Amul	Kool Kesar Flavoured Milk	Drinks	dairy-drink	ml	180	90	3	13	12	7	3	1.9	0.1	50	0	4	Y	milk		Toned milk; Sugar; Saffron; Cardamom; Stabiliser (INS 407)	
+kissan-mixed-fruit-jam			Kissan	Mixed Fruit Jam	Jams & spreads	sweet-spread	g	20	271	0.3	68	65	56	0.1	0	0	30	1	4	Y			Sugar; Mixed fruit pulp; Acidity regulator (INS 330); Thickener (INS 440); Colour; Preservative (INS 211)	
+nutella			Ferrero	Nutella	Jams & spreads	sweet-spread	g	15	539	6.3	57.5	56.3	50	30.9	10.6	0.1	40	3	4	Y	milk,treenut,soy		Sugar; Palm oil; Hazelnuts; Skimmed milk powder; Fat-reduced cocoa; Emulsifier (soya lecithin); Vanillin	

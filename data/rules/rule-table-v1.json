@@ -1,0 +1,64 @@
+{
+  "version": "1.0.0",
+  "status": "placeholder",
+  "approval": {
+    "approver": null,
+    "approvedAt": null,
+    "note": "v0.2 placeholder thresholds from the PRD. Not clinically reviewed. A clinical nutritionist or physician must sign this table before the beta opens."
+  },
+  "effectiveDate": "2026-10-02",
+  "markerMaxAgeMonths": 12,
+  "markerThresholds": {
+    "hba1c": { "high": 5.7, "critical": 10, "unit": "%", "label": "HbA1c" },
+    "fasting-glucose": { "high": 100, "critical": 250, "unit": "mg/dL", "label": "Fasting glucose" },
+    "total-cholesterol": { "high": 200, "critical": 320, "unit": "mg/dL", "label": "Total cholesterol" },
+    "ldl": { "high": 130, "critical": 190, "unit": "mg/dL", "label": "LDL cholesterol" },
+    "triglycerides": { "high": 150, "critical": 500, "unit": "mg/dL", "label": "Triglycerides" },
+    "systolic-bp": { "high": 130, "critical": 180, "unit": "mmHg", "label": "Systolic blood pressure" },
+    "diastolic-bp": { "high": 80, "critical": 120, "unit": "mmHg", "label": "Diastolic blood pressure" }
+  },
+  "dailyLimits": {
+    "addedSugar": { "amount": 25, "unit": "g", "label": "sugar", "ruleId": "LIM-SUGAR", "source": "ICMR-NIN Dietary Guidelines 2024: sugar under 5% of energy, 20–25 g a day for adults. Sources disagree (Netmeds summary says under 10%); advisor to choose." },
+    "sodiumMg": { "amount": 2000, "unit": "mg", "label": "sodium", "ruleId": "LIM-SODIUM", "source": "ICMR 2024 as summarised by Netmeds: under 5 g of salt (2,000 mg sodium) a day." },
+    "saturatedFat": { "amount": 22, "unit": "g", "label": "saturated fat", "ruleId": "LIM-SATFAT", "source": "10% of energy on a 2,000 kcal reference day. Limit to be set by the advisor." },
+    "transFat": { "amount": 0, "unit": "g", "label": "trans fat", "ruleId": "LIM-TRANS", "source": "As low as possible; any partially hydrogenated oil raises a flag." }
+  },
+  "bands": { "good": 0.15, "small": 0.35 },
+  "ruleSets": [
+    {
+      "id": "BS",
+      "name": "Blood sugar",
+      "plainName": "blood sugar",
+      "triggerMarkers": ["hba1c", "fasting-glucose"],
+      "triggerConditions": ["diabetes", "prediabetes"],
+      "checks": [
+        { "id": "BS-1", "type": "share", "nutrient": "addedSugar", "fallback": "totalSugar", "limit": "addedSugar" },
+        { "id": "BS-2", "type": "first-ingredient", "minBand": "small", "patterns": ["refined wheat flour", "maida", "sugar", "liquid glucose", "glucose syrup", "invert sugar", "corn syrup", "brown rice syrup", "jaggery", "honey", "dextrose", "maltodextrin"], "text": "{first} is the first ingredient." }
+      ]
+    },
+    {
+      "id": "CH",
+      "name": "Cholesterol",
+      "plainName": "cholesterol",
+      "triggerMarkers": ["ldl", "total-cholesterol", "triglycerides"],
+      "triggerConditions": ["high-cholesterol"],
+      "checks": [
+        { "id": "CH-1", "type": "share", "nutrient": "saturatedFat", "limit": "saturatedFat" },
+        { "id": "CH-2", "type": "ingredient-flag", "minBand": "not-good", "patterns": ["partially hydrogenated", "hydrogenated vegetable", "vanaspati"], "text": "Contains partially hydrogenated oil, a source of trans fat." },
+        { "id": "CH-3", "type": "max-per-serving", "nutrient": "transFat", "max": 0.2, "minBand": "small", "text": "{amount} g of trans fat in one serving. Keep trans fat as low as possible." },
+        { "id": "CH-4", "type": "share", "nutrient": "addedSugar", "fallback": "totalSugar", "limit": "addedSugar", "onlyIfMarker": "triglycerides", "skipIfRuleSet": "BS" }
+      ]
+    },
+    {
+      "id": "BP",
+      "name": "Blood pressure",
+      "plainName": "blood pressure",
+      "triggerMarkers": ["systolic-bp", "diastolic-bp"],
+      "triggerConditions": ["high-bp"],
+      "checks": [
+        { "id": "BP-1", "type": "share", "nutrient": "sodiumMg", "limit": "sodiumMg" },
+        { "id": "BP-2", "type": "use-group-flag", "minBand": "small", "useGroups": ["salty-snack", "pickle", "papad"], "text": "Namkeen, pickles and papad are salt-heavy foods." }
+      ]
+    }
+  ]
+}
