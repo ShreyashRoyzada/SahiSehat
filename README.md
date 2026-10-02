@@ -21,6 +21,10 @@ Then tap **Try it as Riya (demo)** on the home page. Riya is the PRD's fictional
 
 See `.env.example` for configuration. In production you **must** set `VAULT_KEY`, `ADMIN_PASSWORD` and `ADMIN_TOTP_SECRET`.
 
+## Browser preview (hosted link)
+
+`npm run demo:build` writes `demo/dist/sahisehat.html`: a single-file, browser-only build of the app. It uses the same Fit engine, Quality Score, trust rules, search, swaps, cart check and rule-based assistant as the server app (`src/lib` is shared), with the profile kept in the viewer's browser. It doesn't include accounts, the encrypted vault, reading PDFs and photos, Claude, or the admin console; those need the server. The preview is published as a private Claude artifact for sharing.
+
 ## Where the data comes from
 
 | File | What it is |

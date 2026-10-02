@@ -1,0 +1,83 @@
+@import "tailwindcss" source(none);
+@source "./app.tsx";
+@source "../src/components/Badges.tsx";
+
+/* Layout: one narrow reading column (max 48rem) with cards; the serving-share meter is the signature element. */
+:root {
+  --paper: #f5f7f4;
+  --card: #ffffff;
+  --ink: #16211c;
+  --muted: #56645d;
+  --line: #dbe3de;
+  --brand-50: #e9f6f0;
+  --brand-100: #d2eee1;
+  --brand-600: #12805f;
+  --brand-700: #0b6249;
+  --brand-800: #0a4d3a;
+  --on-brand: #ffffff;
+  --good: #157a3c;
+  --good-bg: #e5f5ea;
+  --small: #965700;
+  --small-bg: #fff2d6;
+  --bad: #b42318;
+  --bad-bg: #fdeceb;
+  --neutral: #475467;
+  --neutral-bg: #edf1f3;
+  --font-display: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+  --font-body: "Atkinson Hyperlegible", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0f1714; --card: #16201c; --ink: #e6efe9; --muted: #9db0a6; --line: #2a3832;
+    --brand-50: #143429; --brand-100: #1a4536; --brand-600: #3fbf8f; --brand-700: #2fa77a; --brand-800: #7fdcb6; --on-brand: #06140f;
+    --good: #5fd08a; --good-bg: #133222; --small: #f0b555; --small-bg: #3a2c10; --bad: #ff8a80; --bad-bg: #3d1714; --neutral: #b6c3cc; --neutral-bg: #222c31;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0f1714; --card: #16201c; --ink: #e6efe9; --muted: #9db0a6; --line: #2a3832;
+  --brand-50: #143429; --brand-100: #1a4536; --brand-600: #3fbf8f; --brand-700: #2fa77a; --brand-800: #7fdcb6; --on-brand: #06140f;
+  --good: #5fd08a; --good-bg: #133222; --small: #f0b555; --small-bg: #3a2c10; --bad: #ff8a80; --bad-bg: #3d1714; --neutral: #b6c3cc; --neutral-bg: #222c31;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-card: var(--card);
+  --color-white: var(--card);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-brand-50: var(--brand-50);
+  --color-brand-100: var(--brand-100);
+  --color-brand-600: var(--brand-600);
+  --color-brand-700: var(--brand-700);
+  --color-brand-800: var(--brand-800);
+  --color-on-brand: var(--on-brand);
+  --color-good: var(--good);
+  --color-good-bg: var(--good-bg);
+  --color-small: var(--small);
+  --color-small-bg: var(--small-bg);
+  --color-bad: var(--bad);
+  --color-bad-bg: var(--bad-bg);
+  --color-neutral: var(--neutral);
+  --color-neutral-bg: var(--neutral-bg);
+  --font-display: var(--font-display);
+  --font-sans: var(--font-body);
+}
+
+html, body, #root { height: 100%; }
+body { background: var(--paper); color: var(--ink); font-family: var(--font-body); font-size: 15.5px; line-height: 1.5; -webkit-text-size-adjust: 100%; }
+button { cursor: pointer; }
+:focus-visible { outline: 3px solid var(--brand-600); outline-offset: 2px; }
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: .4rem; border-radius: 10px; padding: .6rem 1rem; font-weight: 700; font-size: .95rem; line-height: 1.2; min-height: 44px; }
+.btn-primary { background: var(--brand-700); color: var(--on-brand); }
+.btn-primary:hover { background: var(--brand-800); }
+.btn-secondary { background: var(--card); color: var(--brand-800); border: 1px solid var(--line); }
+.btn-secondary:hover { background: var(--brand-50); }
+.btn-danger { background: var(--bad); color: var(--card); }
+.btn:disabled { opacity: .55; cursor: not-allowed; }
+.input { width: 100%; border: 1px solid var(--line); border-radius: 10px; padding: .55rem .7rem; background: var(--card); color: var(--ink); min-height: 44px; font-size: 1rem; }
+.label { display: block; font-weight: 700; font-size: .9rem; margin-bottom: .3rem; }
+.hint { color: var(--muted); font-size: .85rem; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }

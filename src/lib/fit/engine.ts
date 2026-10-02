@@ -3,7 +3,7 @@
 // No network calls and no language model. The same inputs always return the
 // same verdict, and every reason quotes the numbers it was built from.
 
-import { createHash } from "node:crypto";
+import { sha256Hex } from "../hash";
 import type { Allergen, FitReason, FitResult, FitVerdict, Marker, MarkerName, NutrientKey, Product, Profile } from "../types";
 import { ALLERGEN_LABELS, allergenHits, checkDiet, firstIngredient } from "../ingredients";
 import type { BandName, LimitKey, RuleSet, RuleTable } from "./rules";
@@ -140,7 +140,7 @@ export function inputsHash(input: FitInput, activation: Activation): string {
     diet: profile.diet,
     scope: outOfScope(profile) ? "out" : "in",
   });
-  return createHash("sha256").update(payload).digest("hex").slice(0, 32);
+  return sha256Hex(payload).slice(0, 32);
 }
 
 export function computeFit(input: FitInput): FitResult {
